@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="white">#ffffffff</color>
+  <color name="orange">#F1AA40</color>
+  <color name="transparent">#00000000</color>
+  <color name="actionMenuTextColor">#ffffffff</color>
+  <color name="actionBarTitleText">#ffffffff</color>
+  <color name="actionBarTabText">#ffffffff</color>
+  <color name="seperatorColor">#f2832c</color>
+  <color name="topBarColor">#f2832c</color>
+  <color name="bottomBarColor">#d26f24</color>
+  <color name="pressed">#CC97e08f</color>
+  <color name="picassoLocation">#fff2832c</color>
+  <color name="mainText">#000000</color>
+  <color name="secondText">#99000000</color>
+  <color name="thirdText">#79000000</color>
+
+</resources>

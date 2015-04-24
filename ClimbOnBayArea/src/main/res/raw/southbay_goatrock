@@ -1,0 +1,201 @@
+{
+    "area": "South Bay",
+    "spot": "Goat Rock Area",
+    "location": {
+        "latitude": 37.23082,
+        "longitude": -122.095332
+    },
+    "difficulty": "v1 - v8, 5.5 - 5.12a",
+    "climbType": "Bouldering",
+    "cover": "incomplete.jpg",
+    "rockInfo": {
+        "Description": "Several climbing spots can be found on the trail to Goat Rock - Last Temptation Cliff, Billy Goat Rock, Bawling Boulders and Goat Rock.<br><br>Goat Rock is one of the well-known climbing spots along Skyline Ridge in the South Bay. Located just off of CA 35 in Castle Rock State Park, Goat Rock is a 100 foot sandstone monolith with impressive views of the Santa Cruz Mountains along with many routes that rate from 5.6 to 5.12. Erosion from wind, water, and sun have created an interesting rock pattern filled with many small pockets and caves: perfect for climbing. Goat Rock is mostly top roped, and it can get pretty crowded during a summer afternoon. Climbing early to beat the heat and crowds is recommended. From the parking lot on Skyline Blvd., Goat Rock is a 2.5 mile hike through shady groves of redwood trees and sun-baked chaparral. At the summit, one will find perhaps a dozen bolts drilled into the rock that provide great anchors for any of the top rope routes on the rock. The greater ridge of Ben Lomond Mountain dominates the view to the south, blocking most of the view of the ocean, however, parts of Santa Cruz and the Monterey Bay are visible on a clear day.",
+        "Climbing Season": "Goat Rock can get pretty crowded in the summer months, especially in the afternoons. It is best to get to Goat Rock early in the day to earn a spot on the rock, not to mention snagging a parking spot on Skyline Blvd. Compared to Indian Rock and Castle Rock, Goat Rock is sunnier.",
+        "Gear":  "Long slings (up to 30 ft) are needed, though a couple of shoulder length runners will suffice for the majority of top-anchors.",
+        "The Rock": "The uniquely shaped sandstone, with its caves, pockets, and bulbous features, is probably the main attraction for tourists, hikers, and of course, climbers at Castle Rock State Park. The sandstone, known as Vaqueros sandstone, has pockets and caves called tafoni carved out of it. In addition to the tafoni, the sandstone has honeycombed features, or fretwork, as well as large round spheres sticking out from the rock, what geologists refer to as cannonballs.<br><br>Over time, erosion has exposed the outer surface of the rock, which changes slowly due to weather factors such as rain and wind. The area is in an active fault zone. The epicenter of the 1989 Loma Prieta Earthquake, a 7.2 on the richter scale, was not far from here, and the San Andreas Fault divides the Los Trancos Open Space Preserve, only 9 miles to the north.",
+        "Dogs": "Not allowed at Castle Rock State Park. They are allowed on leash at Indian Rock (across the street).",
+        "Fees": "There is an $8 day use fee. If you want to avoid this parking fees, you can always park outside the main parking lot (there is almost always room)."
+    },
+    "logistics": {
+        "parking": {
+          "main": "<ul>
+                   <li>Take US-101 S to San Jose.</li>
+                   <li>Take the exit onto CA-85 S toward Santa Cruz/Cupertino.</li>
+                   <li>Ater 8.1 miles, take the De Anza Blvd exit.</li>
+                   <li>Turn right onto S De Anza Blvd and continue on S Saratoga Sunnyvale Rd.</li>
+                   <li>After 2.3 miles, turn right onto CA 9-S/Big Basin Way.</li>
+                   <li>After 7.3 miles, take a left onto CA-35/Skyline Blvd.</li>
+                   <li>Go another 2.5 miles to reach Castle Rock State Park. Goat Rock is located inside Castle Rock State Park. Park outside to avoid parking fee.</li>
+                   </ul>",
+          "gps": {
+            "latitude": 37.23082,
+            "longitude": -122.095332,
+            "title": "Castle Rock State Park Parking"
+          }
+        },
+        "approach": {
+          "main": "From Castle Rock parking, take the Saratoga Gap trail and follow directions for Goat Rock. From the parking lot, follow Saratoga Gap trail for 0.5 miles. At the junction, take the Ridge trail. You will approach Last Temptation Cliff first.<br><br><b>Last Temptation Cliff</b><br>Last Temptation Cliff is 250 yards from the junction. It should appear on the right. It might be hidden by bushes and the trail towards the Cliff is subtle.<br><br><b>Billy Goat Rock</b><br>Billy Goat Rock is 150 yards from the Last Temptation Cliff. It is easier to identify since it is right next to the trail on the right.<br><br><b>Goat Rock & Bawling Bawl Boulders</b><br>Goat Rock is the 80 foot rock further up the trail. Bawling Bawl Boulders are a couple of boulders near the summit of Goat Rock."
+        }
+    },
+     "routes": {
+        "00. Topology":
+          [
+             {
+               "name": "Topology",
+               "difficulty": " ",
+               "image": "http://i.imgur.com/rtRU5NQ.jpg",
+               "isLandscapeOrientation": true
+             }
+          ],
+        "01. Goat Rock":
+          [
+             {
+               "name": "Dragon's Breath",
+               "difficulty": "5.11a",
+               "image": "http://i.imgur.com/ZobaKQx.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Triple Overhang",
+               "difficulty": "5.9",
+               "image": "http://i.imgur.com/xVVr65Q.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "The Great Roof",
+               "difficulty": "5.10b",
+               "image": "http://i.imgur.com/TlWnt9u.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Overhang Left",
+               "difficulty": "5.11b",
+               "image": "http://i.imgur.com/pDhiXar.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Overhang Right",
+               "difficulty": "5.9",
+               "image": "http://i.imgur.com/a5eFvms.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Swiss Cheese Left",
+               "difficulty": "5.5",
+               "image": "http://i.imgur.com/TcoCbEn.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Swiss Cheese Right",
+               "difficulty": "5.7",
+               "image": "http://i.imgur.com/eAl4366.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Corner Route",
+               "difficulty": "5.8",
+               "image": "http://i.imgur.com/xAbrpv1.jpg",
+               "isLandscapeOrientation": true
+             }
+          ],
+        "02. Bowling Bawl Boulders":
+          [
+             {
+               "name": "Planet Caravan",
+               "difficulty": "v8",
+               "image": "http://i.imgur.com/YBE0tkg.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Easy-O",
+               "difficulty": "v1",
+               "image": "http://i.imgur.com/Qek7bg9.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Bowling Bawl",
+               "difficulty": "v1",
+               "image": "http://i.imgur.com/sCP8MTG.jpg",
+               "isLandscapeOrientation": true
+             }
+          ],
+        "03. Billy Goat Rock":
+          [
+             {
+               "name": "Birdwell Bolt",
+               "difficulty": "5.10c",
+               "image": "http://i.imgur.com/5cXNe2H.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Permanent Erection",
+               "difficulty": "5.11a",
+               "image": "http://i.imgur.com/bbRfbFC.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Cummed On",
+               "difficulty": "5.11c",
+               "image": "http://i.imgur.com/Qco0MwG.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Way Dubious Contortionist",
+               "difficulty": "v5",
+               "image": "http://i.imgur.com/jJ8QPHz.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Technical Contortionist",
+               "difficulty": "v8",
+               "image": "http://i.imgur.com/zLrzoQJ.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Projectile Vomit",
+               "difficulty": "v3",
+               "image": "http://i.imgur.com/XULAQWb.jpg",
+               "isLandscapeOrientation": true
+             }
+          ],
+        "04. Last Temptation Cliff":
+          [
+             {
+               "name": "Death and Taxes",
+               "difficulty": "5.10b",
+               "image": "http://i.imgur.com/Xj7tL35.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Chimps in a Negligee",
+               "difficulty": "5.9",
+               "image": "http://i.imgur.com/DqVlKPj.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Charlies Angels",
+               "difficulty": "5.11b",
+               "image": "http://i.imgur.com/K28bZP9.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Go Thee I Know Not Wither",
+               "difficulty": "5.10c",
+               "image": "http://i.imgur.com/qJ0GCR5.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Arete",
+               "difficulty": "5.12a",
+               "image": "http://i.imgur.com/T7ZYaXJ.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Live Monkey Brains",
+               "difficulty": "5.11a",
+               "image": "http://i.imgur.com/Hwi7c24.jpg",
+               "isLandscapeOrientation": true
+             }
+          ]
+      }
+}

@@ -1,0 +1,120 @@
+{
+    "area": "East Bay",
+    "spot": "Cragmont Park",
+    "location": {
+        "latitude": 37.892672,
+        "longitude": -122.263604
+    },
+    "difficulty": "5.5 - 5.11a",
+    "climbType": "Rope",
+    "assetFolder": "routes/eastbay/cragmont/",
+    "cover": "cragmontcover.jpg",
+    "rockInfo": {
+        "Description": "A well-known climbing spot since the 1930s, Cragmont park offers a good way for beginners to learn top-roping. Great views of the Bay from the park makes it a top choice for top-roping. There are a few easy top-rope climbs on the North-East face and some tougher sport climbs on the East face.<br><br>This small park has a basketball court, a covered patio with nice views of the bay and Albany/El Cerrito, a lawn, and a porta-poty. But, the real star of this park is the vertical rock face that is great for top-rope climbing. There are a few bolts at the top, so minimal equipment is needed to get set up. <br><br>Cragmont plays a pivotal role in the history of American rock climbing. In the early 1930’s Dick Leonard, Jules Eichorn, and Bestor Robinson began practicing rope technique at Cragmont as well as other Berkeley crags, Indian Rock and Remillard Park. On March 13, 1932, these men formed the Cragmont Climbing Club which later that year was merged with the Sierra Club’s new Rock Climbing Section, commonly known as the RCS. These climbers developed many new techniques including the hip belay and the dynamic belay. On Labor Day weekend, 1933, these Cragmont climbers accompanied by companions of the RCS, traveled to Yosemite Valley where they became the first climbers to ever use rope in Yosemite. Eichorn, Robinson, and Leonard reached Lunch Ledge, an almost nondescript ledge 1000 feet above the Valley floor on Washington Column. This and their later first ascent of Higher Cathedral Spire in 1934 would change the nature of American and world rock climbing forever.",
+        "When To Go": "The rock is covered by houses and trees around the area and there should be good conditions throughout the year. ",
+        "Gear": "6-8 quickdraws. Long slings. Some cams and stoppers.",
+        "Camping": "Camping can be found in Tilden Park. (510) 562 - PARK is the best way to find information and directions. ",
+        "Dogs": "Must be on leash. Citations can be issued.",
+        "The Rock": "The rocks scattered across the Berkeley hills are rhyolite. Rhyolites are volcanic rocks with a high concentration of silica. The silica content associates them with continental volcanos rather than oceanic volcanos. The rocks are extrusive meaning that the lava cooled quickly due to it's exposure to air. When rhyolite is light gray or whitish in color, such as most of the rock in Berkeley, it is felsic rhyolite, which contains a greater percentage of quartz, micas, and silicate mixtures than darker mafic rocks such as basalt and gabbro. The rock in and around Berkeley is estimated to be about 100 million years old."
+    },
+    "logistics": {
+        "parking": {
+          "main": "<ul>
+                   <li>Take the Buchanan St. exit from I-80.</li>
+                   <li>Turn right onto Buchanan St. and it will become Marin Ave.</li>
+                   <li>Follow Marin Ave. till you reach Marin Circle.</li>
+                   <li>Stay on Marin Ave. and follow the road uphill and turn right on Regal Road.</li>
+                   <li>The park should be on your right.</li>
+                   </ul>",
+          "gps": {
+            "latitude": 37.892672,
+            "longitude": -122.263604,
+            "title": "Cragmont Park Parking"
+          }
+        },
+        "approach": {
+          "main": "There are two main faces - North-East and East face. From the parking (with the park in front of you), take a left downhill to see the North-East face. The East face is around the corner."
+        },
+        "Set up top rope": {
+          "main": "Two- and three-bolt anchors are available at the top of each climb. The bolts are reached by stepping over a short rock wall located above the climbs. The ledge is spacious although somewhat slopping. If the slope makes you nervous, there are several trees which you can anchor yourself to with webbing or cordelette while you set the top rope. These trees should also be used as back-up anchors.<br><br>Two sets of two bolts are located right on top of the North-East face. A third set is located above the large tree between the North-East and East face. This set is difficult to get to safely (you can rap from the tree on top of the cliff) and the climbs for which it protects are so poor in quality it is not worth the effort. The fourth set (three bolts) is as far to the right as you can get on the cliff top and are shiny and look new. Rope drag may be a bit of problem and you should bring a couple 48\" slings to accomodate this."
+        }
+    },
+     "routes": {
+        "01. East Face":
+          [
+             {
+               "name": "Farewell to Arms",
+               "difficulty": "5.10b",
+               "image": "http://i.imgur.com/dBEv9hW.jpg",
+               "localImage": "r08.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Face",
+               "difficulty": "5.11b",
+               "image": "http://i.imgur.com/HBs1QoO.jpg",
+               "localImage": "r09.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Gravity",
+               "difficulty": "5.11d",
+               "image": "http://i.imgur.com/lylDbiI.jpg",
+               "localImage": "rc8.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "The Cave",
+               "difficulty": "5.9",
+               "image": "http://i.imgur.com/4ubb7jN.jpg",
+               "localImage": "rc11.jpg",
+               "isLandscapeOrientation": true
+             }
+           ],
+        "01. North-East Face":
+          [
+            {
+              "name": "Face",
+              "difficulty": "5.9",
+              "image": "http://i.imgur.com/IB1AVEa.jpg",
+               "localImage": "r01.jpg",
+              "isLandscapeOrientation": true
+            },
+            {
+              "name": "The Crack",
+              "difficulty": "5.6",
+              "image": "http://i.imgur.com/sQytM2j.jpg",
+               "localImage": "r02.jpg",
+              "isLandscapeOrientation": true
+            },
+            {
+              "name": "Mossy Edges",
+              "difficulty": "5.7",
+              "image": "http://i.imgur.com/WX6ar9y.jpg",
+              "localImage": "r05.jpg",
+              "isLandscapeOrientation": true
+            },
+            {
+              "name": "The Crack (Alternate)",
+              "difficulty": "5.7",
+              "image": "http://i.imgur.com/zCwFQ9r.jpg",
+              "localImage": "rc2.jpg",
+              "isLandscapeOrientation": true
+            },
+            {
+              "name": "Mossy Face",
+              "difficulty": "5.10b",
+              "image": "http://i.imgur.com/QCvjOO7.jpg",
+              "localImage": "rc5.jpg",
+              "isLandscapeOrientation": true
+            },
+            {
+              "name": "Mossy Face",
+              "difficulty": "5.9",
+              "image": "http://i.imgur.com/UMhxFoV.jpg",
+              "localImage": "rc6.jpg",
+              "isLandscapeOrientation": true
+            }
+          ]
+      }
+}

@@ -1,0 +1,494 @@
+{
+    "area": "South Bay",
+    "spot": "Castle Rock",
+    "location": {
+        "latitude": 37.230807,
+        "longitude": -122.095351
+    },
+    "difficulty": "v0 - v11, 5.6 - 5.12a",
+    "climbType": "Bouldering, Rope",
+    "cover": "castlerockbouldercover.jpg",
+    "rockInfo": {
+        "Description": "From back in the days of old school rock climbing pioneers such as Yabo and Cos to the new era of today’s rock climbing stars such as Sharma, the enduring sandstone boulders of Castle Rock have been bouldering school for most local climbers. Long before Castle Rock State Park acquired bolted sport routes, the small sandstone outcrops scattered throughout the madrones, live oaks and bays have offered climbers challenging high-standard boulder problems and extended training circuits similar to those found in the famous enchanted forest of Fontainebleau near Paris.<br><br>The Vaqueros Sandstone at Castle is like something out of another world. Honeycomb caves, sculpted arêtes, tafoni pockets, and strange cannonball shapes protruding from otherwise smooth blank walls of khaki stone all coalesce in your eyes, body, and mind, helping to relieve the boredom of the familiar, everyday world. The highest concentration of boulder problems in the Bay Area is side by side with great sport and trad crags. All this combined with legitimate access from one easily located parking area makes it the most popular all around rock climbing venue in the Bay Area.<br><br>Castle Rock State Park is home to some of the best sandstone bouldering in the United States. A large area with tons of boulder problems, a fair amount of bolted sport climbs, and some trad lines, Castle Rock in and of itself is enough material for an entire guidebook.<br><br>Climbs here range from 10 foot boulders to 120 foot tall sport lines encompassing nearly every level of difficulty.",
+        "The Rock": "The uniquely shaped sandstone, with its caves, pockets, and bulbous features, is probably the main attraction for tourists, hikers, and of course, climbers at Castle Rock State Park. The sandstone, known as Vaqueros sandstone, has pockets and caves called tafoni carved out of it. In addition to the tafoni, the sandstone has honeycombed features, or fretwork, as well as large round spheres sticking out from the rock, what geologists refer to as cannonballs.<br><br>Over time, erosion has exposed the outer surface of the rock, which changes slowly due to weather factors such as rain and wind. The area is in an active fault zone. The epicenter of the 1989 Loma Prieta Earthquake, a 7.2 on the richter scale, was not far from here, and the San Andreas Fault divides the Los Trancos Open Space Preserve, only 9 miles to the north.",
+        "When to go": "Avoid climbing for several days (minimum should be two) after it has rained. The sandstone here is very fragile and critical holds on well loved problems have been known to break. If there is no rain, this rock is good to climb any time of the year.",
+        "Gear": "Crash pad for bouldering. Long slings for setting up top rope. ",
+        "Dogs": "Not allowed at Castle Rock State Park. They are allowed on leash at Indian Rock (across the street).",
+        "Fees": "There is an $8 day use fee. If you want to avoid this parking fees, you can always park outside the main parking lot (there is almost always room)."
+    },
+    "logistics": {
+        "parking": {
+          "main": "<ul>
+                   <li>Take US-101 S to San Jose.</li>
+                   <li>Take the exit onto CA-85 S toward Santa Cruz/Cupertino.</li>
+                   <li>Ater 8.1 miles, take the De Anza Blvd exit.</li>
+                   <li>Turn right onto S De Anza Blvd and continue on S Saratoga Sunnyvale Rd.</li>
+                   <li>After 2.3 miles, turn right onto CA 9-S/Big Basin Way.</li>
+                   <li>After 7.3 miles, take a left onto CA-35/Skyline Blvd. The park is 2.5 miles on the right side. You cannot miss it. Park outside to avoid parking fee.</li>
+                   </ul>",
+          "gps": {
+            "latitude": 37.230807,
+            "longitude": -122.095351,
+            "title": "Parking"
+          }
+        },
+        "Bouldering": {
+          "main": "There are multiple different boulders you can climb (Parking Lot Boulder, Yabo Boulder, Castle Rock Boulders, Magoos Boulders, The Graveyard Boudlers). Check the routes for a topology map. Most of them are near each other.<br><br><b>Parking Lot Boulder</b><br>The parking lot boulder holds some of the choice problems in the park. It is also a favorite because of the short three minute walk from the main parking lot. It offers more than 25 quality problems spanning the range from v0 to v10.<br><br>From the paid parking lot, head up the main Castle Rock trail (not Saratoga trail) for about 50 ft. Locate an unmarked trail (See Routes for Picture) going right into the woods. Follow trail for 100 yds to reach Parking Lot Boulder.<br><br><b>Yabo Boulder</b><br>From the paid parking lot, head up to the Saratoga Gap trail for about 150 ft. Yabo Boulder should be on the right.<br><br><b>Castle Rock Boulders</b><br>The Castle Rock Boulders have four main boulders you can climb - the back of castle rock, 360&#176; rock, The Beak and The Spoon.<br><br>From Parking Lot Boulder, head uphill for 150 ft to reach the main rock (Castle Rock Boulder). Once you've located the main backside boulder (Waimea Wall etc), the 360&#176; rock is just below the trail. The Beak is between Castle Rock Boulder and Magoos Boulders. The Spoon is the first rock when you come up the trail from Parking Lot Boulder.<br><br><b>The Magoos Boulders</b><br>Magoos Boulders are to the left side of Castle Rock (check topology map).<br><br><b>Dog Dish Boulder</b><br>Dog Dish boulder is right next to Magoos boulder (downhill).<br><br><b>The Graveyard Boulders</b><br>The Graveyard boulders are located either side of the trail downhill and southwest of Castle Rock towards the falls. From Magoos boulders, head downhill. You will first approach Hueco Wall on the left, then Pyramid Rock on the right, Egghead Boulder on the left (a little off trail), Domino Rock on the right and Eco Terrorist on the right.<br><br>The Eco Terrorist v11 problem was sent by Chris Sharma in 1997. Pyramid Rock has a juicy highball which requires pads and spotters."
+        },
+        "Rope Climbing": {
+         "main": "From Parking Lot Boulder, head uphill for 150 ft to reach the main rock. <br><br>There is a heavy-duty belay pole at the top of Castle Rock. Climb Summit Route to reach the top."
+        }
+      },
+     "routes": {
+       "01. Parking Lot Boulder":
+         [
+           {
+             "name": "Let's Get Hurt",
+             "difficulty": "v3",
+             "image": "http://i.imgur.com/8mUMK0K.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "The Flakes",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/5dDf0pz.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Holes",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/OiRSWwW.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Pockets",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/u9Y6CUb.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Traverse",
+             "difficulty": "v6",
+             "image": "http://i.imgur.com/A0nFzQZ.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Coz Mama Roof",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/OJuPjLm.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Lieback",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/1y4Cj8c.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Collins Problem",
+             "difficulty": "v9",
+             "image": "http://i.imgur.com/RbAY5kl.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Deforestation",
+             "difficulty": "v8",
+             "image": "http://i.imgur.com/BfBeA91.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "The Tree Route",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/u2SFwSm.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Rug Head",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/Qn9CtGP.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Yabo Roof",
+             "difficulty": "v5",
+             "image": "http://i.imgur.com/qXZyGGz.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Coz Daddy Roof",
+             "difficulty": "v6",
+             "image": "http://i.imgur.com/fuaqbzt.jpg",
+             "isLandscapeOrientation": true
+           }
+         ],
+       "02. Yabo Boulder":
+         [
+           {
+             "name": "R14",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/zf8U8eY.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "R15",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/3kHU1P2.jpg",
+             "isLandscapeOrientation": true
+           }
+         ],
+       "03. Castle Rock - Main":
+         [
+           {
+             "name": "Warm up",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/9EVkbth.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Some more warm up",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/RVUXfSv.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Waimea Wall",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/ZyFxnan.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Bates Arete",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/lepOxSM.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Waimea Arete",
+             "difficulty": "v5",
+             "image": "http://i.imgur.com/XoFdvim.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Duct Tape",
+             "difficulty": "v5",
+             "image": "http://i.imgur.com/K3lQUOq.jpg",
+             "isLandscapeOrientation": true
+           }
+         ],
+       "04. Castle Rock - 360 Rock":
+         [
+           {
+             "name": "The Edge",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/mbp7QAg.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 8
+           },
+           {
+             "name": "Mr. Clean",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/weQsNBz.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 8
+           },
+           {
+             "name": "Traverse Pt. 1",
+             "difficulty": "v8",
+             "image": "http://i.imgur.com/2oxqec8.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 8
+           },
+           {
+             "name": "Traverse Pt. 2",
+             "difficulty": "v8",
+             "image": "http://i.imgur.com/A2B9zxv.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 8
+           }
+         ],
+       "05. Castle Rock - The Beak":
+         [
+           {
+             "name": "Traverse",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/yDfjAcx.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 8
+           },
+           {
+             "name": "Mantle",
+             "difficulty": "v7",
+             "image": "http://i.imgur.com/IjRtGNP.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 8
+           },
+           {
+             "name": "The Beak",
+             "difficulty": "v8",
+             "image": "http://i.imgur.com/vt49IiI.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 8
+           }
+         ],
+       "05. Castle Rock - Mr Magoo Boulder":
+         [
+           {
+             "name": "Bates Problem",
+             "difficulty": "v5",
+             "image": "http://i.imgur.com/S8abLuu.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "v9",
+             "difficulty": "v9",
+             "image": "http://i.imgur.com/rwJWbSR.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Mr Magoo",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/4bEUXEg.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "v1",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/Av2KKqt.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Overhanging Lieback",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/fXpXclo.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "The Roof Crack",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/Q1ZNF3n.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Magoo Face",
+             "difficulty": "v3",
+             "image": "http://i.imgur.com/Oml1lAM.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Mantle",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/RsMTH4L.jpg",
+             "isLandscapeOrientation": true
+           }
+         ],
+       "05. Castle Rock - Mrs Magoo Boulder":
+         [
+           {
+             "name": "Traverse",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/iTOQj8q.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Mrs Magoo",
+             "difficulty": "v3",
+             "image": "http://i.imgur.com/fVzu2K9.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "The Groove",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/ikB1jLg.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Roof Traverse",
+             "difficulty": "v3",
+             "image": "http://i.imgur.com/dXTXNgW.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Kauk Roof",
+             "difficulty": "v6",
+             "image": "http://i.imgur.com/beyQj0S.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "The Swim",
+             "difficulty": "v3",
+             "image": "http://i.imgur.com/EirCDBP.jpg",
+             "isLandscapeOrientation": true
+           }
+         ],
+       "06. Castle Rock - The Spoon":
+         [
+           {
+             "name": "The Spoon",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/P5UR9iS.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 27
+           }
+         ],
+       "07. Graveyard Boulders - Hueco Wall":
+         [
+           {
+             "name": "The Slope",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/3wnfU13.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 8
+           },
+           {
+             "name": "The Slap",
+             "difficulty": "v5",
+             "image": "http://i.imgur.com/EUQYCrR.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 8
+           },
+           {
+             "name": "The Wall",
+             "difficulty": "v5",
+             "image": "http://i.imgur.com/F3dLqmu.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 8
+           },
+           {
+             "name": "The Traverse",
+             "difficulty": "v6",
+             "image": "http://i.imgur.com/imXW5HM.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 8
+           }
+         ],
+       "08. Graveyard Boulders - Pyramid Rock":
+         [
+           {
+             "name": "Pyramid Scheme",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/KsNmQEu.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Pyramid Crack",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/KsNmQEu.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 8
+           }
+         ],
+       "09. Graveyard Boulders - Domino Boulder":
+         [
+           {
+             "name": "Theory",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/JDBF0ia.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 8
+           },
+           {
+             "name": "Arete",
+             "difficulty": "v3",
+             "image": "http://i.imgur.com/DoG3IaP.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 8
+           },
+           {
+             "name": "Traverse",
+             "difficulty": "v5",
+             "image": "http://i.imgur.com/74tQdZC.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 8
+           }
+         ],
+       "10. Graveyard Boulders - Ecoterrorist Rock":
+         [
+           {
+             "name": "Wish You Were Here",
+             "difficulty": "v9",
+             "image": "http://i.imgur.com/CqU7KCW.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 8
+           },
+           {
+             "name": "Eco Terrorist",
+             "difficulty": "v11",
+             "image": "http://i.imgur.com/Vm7vMI5.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 8
+           }
+         ],
+       "11. Graveyard Boulders - Egghead Boulder":
+         [
+           {
+             "name": "Egghead traverse",
+             "difficulty": "v8",
+             "image": "http://i.imgur.com/5lCUeyx.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 8
+           },
+           {
+             "name": "Egghead Direct",
+             "difficulty": "v8",
+             "image": "http://i.imgur.com/AHFyQxH.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 8
+           }
+         ],
+
+        "12. North Face":
+          [
+             {
+               "name": "Unknown",
+               "difficulty": "5.12a",
+               "image": "http://i.imgur.com/KgUzxYA.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Farewell to Arms",
+               "difficulty": "5.10d",
+               "image": "http://i.imgur.com/fejOiE6.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Aeronautical Engineer",
+               "difficulty": "5.11b",
+               "image": "http://i.imgur.com/ZDM3rBa.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Roof",
+               "difficulty": "5.11b",
+               "image": "http://i.imgur.com/Jv3tHoZ.jpg",
+               "isLandscapeOrientation": true
+             }
+           ],
+        "13. South Face":
+          [
+             {
+               "name": "Summit Route",
+               "difficulty": "5.5",
+               "image": "http://i.imgur.com/6xNlwK5.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Mantle Groove",
+               "difficulty": "5.10c",
+               "image": "http://i.imgur.com/Wa2PXHy.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Face",
+               "difficulty": "5.9",
+               "image": "http://i.imgur.com/NatsmBb.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Chimney",
+               "difficulty": "5.6",
+               "image": "http://i.imgur.com/87qb2js.jpg",
+               "isLandscapeOrientation": true
+             }
+          ]
+     }
+}

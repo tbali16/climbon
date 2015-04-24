@@ -1,0 +1,102 @@
+{
+    "area": "South Bay",
+    "spot": "Sunnyvale Mountain",
+    "location": {
+        "latitude": 37.230807,
+        "longitude": -122.095351
+    },
+    "difficulty": "v1 - v8",
+    "climbType": "Bouldering",
+    "cover": "incomplete.jpg",
+    "rockInfo": {
+      "Description": "Sunnyvale Mountain provides a couple of secluded boulders that are guaranteed to be empty. Compared to the neighboring Castle and Indian Rock, the quantity of problems might be underwhelming.",
+      "Gear": "Crash pad.",
+      "Climbing Season": "Anytime of the year. Bouldering is mostly in the shade."
+    },
+    "logistics": {
+        "parking": {
+          "main": "<ul>
+                   <li>Take US-101 S to San Jose.</li>
+                   <li>Take the exit onto CA-85 S toward Santa Cruz/Cupertino.</li>
+                   <li>Ater 8.1 miles, take the De Anza Blvd exit.</li>
+                   <li>Turn right onto S De Anza Blvd and continue on S Saratoga Sunnyvale Rd.</li>
+                   <li>After 2.3 miles, turn right onto CA 9-S/Big Basin Way.</li>
+                   <li>After 7.3 miles, take a left onto CA-35/Skyline Blvd.</li>
+                   <li>After 4.5 miles, you will see a parking lot on the left. This parking lot is two miles from Castle Rock State Park.</li>
+                   </ul>",
+          "gps": {
+            "latitude": 37.230807,
+            "longitude": -122.095351,
+            "title": "Parking"
+          }
+        },
+        "approach": {
+          "main": "<b>Tree in the Wall Boulder</b><br>From the parking lot, take the road trail on the left (Skyline Trail). Walk for 90 yards till you hit a fork. Go left (Skyline Trail) and walk another 220 yards to the \"Tree in the Wall\" boulder on your right.<br><br><b>Pirate & Drunk as a Skunk Boulder</b><br>There is a faint trail around (downhill) the \"Tree in the Wall\" boulder which goes left. Take it for 80 yards till you see a faint trail on the right. Follow the trail for a few yards to see Pirate Boulder on your left. \"Drunk as a Skunk\" boulder is right next to this boulder. "
+        }
+    },
+    "routes": {
+        "01. Tree-in-the-Wall Boulder":
+          [
+             {
+               "name": "Stretch Armstrong",
+               "difficulty": "v5",
+               "image": "http://i.imgur.com/O8MSog0.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Bee's Nest",
+               "difficulty": "v6",
+               "image": "http://i.imgur.com/pplZNaB.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Trailblazer Arete",
+               "difficulty": "v2",
+               "image": "http://i.imgur.com/Uplspva.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Crustacean Transformation",
+               "difficulty": "v4",
+               "image": "http://i.imgur.com/QJijSUQ.jpg",
+               "isLandscapeOrientation": true
+             }
+          ],
+        "02. Pirate Boulder":
+          [
+             {
+               "name": "Rupert's Ride",
+               "difficulty": "v2",
+               "image": "http://i.imgur.com/bhILO0x.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Poop-Chute Pirate",
+               "difficulty": "v3",
+               "image": "http://i.imgur.com/Mvt1MII.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Pirate's Lookout",
+               "difficulty": "v1",
+               "image": "http://i.imgur.com/IT0CK7D.jpg",
+               "isLandscapeOrientation": true
+             }
+          ],
+        "03. Drunk as a Skunk Boulder":
+          [
+             {
+               "name": "The Tall Bastard",
+               "difficulty": "v8",
+               "image": "http://i.imgur.com/H4fMd79.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Drunk as a Skunk",
+               "difficulty": "v6",
+               "image": "http://i.imgur.com/bczwXhM.jpg",
+               "isLandscapeOrientation": true
+             }
+          ]
+    }
+}

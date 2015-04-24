@@ -1,0 +1,106 @@
+{
+    "area": "East Bay",
+    "spot": "Remillard Park",
+    "location": {
+        "latitude": 37.8923,
+        "longitude": -122.2611
+    },
+    "difficulty": "5.6 - 5.11c",
+    "climbType": "Rope",
+    "cover": "remillardcover.jpg",
+    "rockInfo": {
+        "Description": "Remillard Park is located a few blocks from Cragmont and has several very enjoyable top ropes, including several harder 5.10+-5.11 routes on the overhanging Plaque Rock. This rock formation in the Berkeley hills is also a great picnic spot. There is also potential for new routes if the rock is cleared and cleaned of lichen in spots.<br><br>The redish-brown rock found at Remillard Park is slightly different from that found at nearby Indian Rock and Cragmont. It is full of huecos (pockets in the rock) including several monodoights that are fairly sharp. That said, there are several fantastic beginner's climbs here on the main and higher rocks and this park is a favorite bay area crag.",
+        "Climbing Season": "Great to climb any time of the year. Often shady, the north-facing crag is a great place for a hot summer day because it rarely gets too warm.",
+        "Camping": "Camping can be found in Tilden Park. (510) 562 - PARK is the best way to find information and directions. ",
+        "Dogs": "Must be on leash. Citations can be issued.",
+        "The Rock": "The rocks scattered across the Berkeley hills are rhyolite. Rhyolites are volcanic rocks with a high concentration of silica. The silica content associates them with continental volcanos rather than oceanic volcanos. The rocks are extrusive meaning that the lava cooled quickly due to it's exposure to air. When rhyolite is light gray or whitish in color, such as most of the rock in Berkeley, it is felsic rhyolite, which contains a greater percentage of quartz, micas, and silicate mixtures than darker mafic rocks such as basalt and gabbro. The rock in and around Berkeley is estimated to be about 100 million years old.",
+        "Gear": "The fixed anchors for top roping consist of bolts and a belay pole. All fixed anchors are reached with short and easy scrambles. "
+    },
+    "logistics": {
+        "parking": {
+          "main": "<ul>
+                   <li>Exit I-80 and go east from the Buchanan St/Albany exit. </li>
+                   <li>Go 3 blocks, and take the soft right onto Marin ave. </li>
+                   <li>Follow the road up the hill to the traffic circle. </li>
+                   <li>Go around the circle and stay on Marin, which will be the fourth turn. </li>
+                   <li>Take a right on Hildale, then a left on Poppy Lane. Remillard park will be on the right.</li>
+                   </ul>",
+          "gps": {
+            "latitude": 37.8923,
+            "longitude": -122.2611,
+            "title": "Remillard Park Parking"
+          }
+        },
+        "approach": {
+          "main": "The rock is next to the parking."
+        }
+    },
+     "routes": {
+        "Main Rock":
+          [
+             {
+               "name": "Traverse",
+               "difficulty": "v5",
+               "image": "https://i.imgur.com/v9uq9FN.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Face",
+               "difficulty": "5.10d",
+               "image": "https://i.imgur.com/x4TYG6a.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Crack",
+               "difficulty": "5.9",
+               "image": "https://i.imgur.com/osJburc.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Face",
+               "difficulty": "5.11c",
+               "image": "https://i.imgur.com/LwTRA9Y.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Bucket Prow",
+               "difficulty": "5.6",
+               "image": "https://i.imgur.com/wVG3zaH.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Face",
+               "difficulty": "5.9",
+               "image": "https://i.imgur.com/maZkrJI.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Face",
+               "difficulty": "5.10a",
+               "image": "https://i.imgur.com/pMkMLHc.jpg",
+               "isLandscapeOrientation": true
+             }
+           ],
+           "Plaque Rock":
+           [
+              {
+                "name": "Face (Left)",
+                "difficulty": " 5.10b",
+                "image": "https://i.imgur.com/CErgv4H.jpg",
+                "isLandscapeOrientation": true
+              },
+              {
+                "name": "Face (Centre)",
+                "difficulty": "5.11a",
+                "image": "https://i.imgur.com/hZOHZEI.jpg",
+                "isLandscapeOrientation": true
+              },
+              {
+                "name": "Face (Right)",
+                "difficulty": "5.10a",
+                "image": "https://i.imgur.com/etkrODk.jpg",
+                "isLandscapeOrientation": true
+              }
+           ]
+      }
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                 android:layout_width="match_parent"
+                                 android:layout_height="wrap_content"
+                                 android:layout_marginBottom="200dp"
+                                 android:layout_marginTop="200dp">
+
+<TextView android:id="@+id/list_item_spot_difficultyTextView"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:textColor="@color/thirdText"
+          android:layout_alignParentRight="true"
+          android:gravity="center"
+          android:padding="8dp"
+          android:enabled="false"/>
+
+<TextView android:id="@+id/list_item_spot_titleTextView"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:textColor="@color/mainText"
+          android:textStyle="bold"
+          android:paddingLeft="4dp"
+          android:paddingRight="4dp"
+          android:layout_toLeftOf="@id/list_item_spot_difficultyTextView" android:paddingTop="8dp"
+          android:paddingBottom="0dp" android:textSize="16sp"/>
+
+
+<TextView android:id="@+id/list_item_spot_climbTypeTextView"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:textColor="@color/secondText"
+          android:paddingTop="2dp"
+          android:paddingLeft="4dp"
+          android:paddingRight="4dp"
+          android:layout_toLeftOf="@id/list_item_spot_difficultyTextView"
+          android:layout_below="@id/list_item_spot_titleTextView"
+          android:paddingBottom="8dp"/>
+</RelativeLayout>

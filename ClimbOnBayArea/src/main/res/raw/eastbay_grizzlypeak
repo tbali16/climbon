@@ -1,0 +1,101 @@
+{
+    "area": "East Bay",
+    "spot": "Grizzly Peak Boulders",
+    "location": {
+        "latitude": 37.8824240,
+        "longitude": -122.2416600
+    },
+    "difficulty": "v0 - v8",
+    "climbType": "Bouldering",
+    "cover": "grizzlypeak.jpg",
+    "assetFolder": "routes/eastbay/grizzlypeak/",
+    "rockInfo": {
+        "Description": "Consisting of two main boulders, Grizzly Peak offers a secluded bouldering area with a handful of cool hard problems. The rock is a volcanic mix that is signature of bouldering in Berkeley, with similar rock found at Indian Rock. Some of the rock is crumbly, though it has cleaned up for the most part on established routes. <br><br><b> Be careful of poison oak </b>",
+        "When To Go": "This rock is great to climb any time of the year. Mostly in shade, it is a great alternative to Indian Rock during the summer.",
+        "Dogs": "No restrictions.",
+        "Gear": "Crash pads. Rocks are high and some climbs should be attempted with spotters.",
+        "The Rock": "The rocks scattered across the Berkeley hills are rhyolite. Rhyolites are volcanic rocks with a high concentration of silica. The silica content associates them with continental volcanos rather than oceanic volcanos. The rocks are extrusive meaning that the lava cooled quickly due to it's exposure to air. When rhyolite is light gray or whitish in color, such as most of the rock in Berkeley, it is felsic rhyolite, which contains a greater percentage of quartz, micas, and silicate mixtures than darker mafic rocks such as basalt and gabbro. The rock in and around Berkeley is estimated to be about 100 million years old."
+    },
+    "logistics": {
+        "parking": {
+          "main": "<ul>
+                   <li>From Berkeley, go up Centennial Drive towards Grizzly Peak.</li>
+                   <li>Once you reach the intersection of Centennial Drive and Grizzly Peak Blvd, turn right to Grizzly Peak Blvd.</li>
+                   <li>Drive 0.4 miles to see a small pullout for 1-2 cars on the left.</li>
+                   </ul>",
+          "gps": {
+            "latitude": 37.8824240,
+            "longitude": -122.2416600,
+            "title": "Grizzly Peak Parking"
+          }
+        },
+        "approach": {
+          "main": "The trail leads to two main rocks that are climbable. They are right next to the pullout."
+        }
+    },
+     "routes": {
+        "Main Rock":
+          [
+             {
+               "name": "Scary Overhang",
+               "difficulty": "v3",
+               "localImage": "MainRoute1.jpg",
+               "image": "http://i.imgur.com/zEwstKR.jpg"
+             },
+             {
+               "name": "Scott's Traverse",
+               "difficulty": "v6",
+               "localImage": "MainRoute3Traverse.jpg",
+               "image": "http://i.imgur.com/53uIjQL.jpg"
+             },
+             {
+               "name": "Scott's Arete",
+               "difficulty": "v7",
+               "localImage": "MainRoute4Arete.jpg",
+               "image": "http://i.imgur.com/TeCXuGg.jpg"
+             },
+             {
+               "name": "Scott's Roof",
+               "difficulty": "v7",
+               "localImage": "MainRoute5ScottRoof.jpg",
+               "image": "http://i.imgur.com/5RuOuiG.jpg"
+             }
+           ],
+        "Upper Boulders":
+          [
+            {
+              "name": "Stinkbomb",
+              "difficulty": "v5",
+              "localImage": "UpperBoulderR11.jpg",
+              "image": "http://i.imgur.com/oybe7ir.jpg"
+            },
+            {
+              "name": "Traverse to Lip",
+              "difficulty": "v7",
+              "localImage": "UpperBoulderR10.jpg",
+              "image": "http://i.imgur.com/VyHjO6y.jpg"
+            },
+            {
+              "name": "Squishy",
+              "difficulty": "v4",
+              "localImage": "UpperBoulderR12.jpg",
+              "image": "http://i.imgur.com/YWcQGZf.jpg"
+            }
+          ],
+        "Traverse Boulders":
+          [
+            {
+              "name": "Beginners' Slab",
+              "difficulty": "v0",
+              "localImage": "TraverseR8.jpg",
+              "image": "http://i.imgur.com/bnjMWGr.jpg"
+            },
+            {
+              "name": "The Grizzly Peak Traverse",
+              "difficulty": "v8",
+              "localImage": "TraverseR7.jpg",
+              "image": "http://i.imgur.com/KGFD5Mo.jpg"
+            }
+          ]
+      }
+}

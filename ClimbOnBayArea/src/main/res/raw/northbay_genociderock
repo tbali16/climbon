@@ -1,0 +1,105 @@
+{
+    "area": "North Bay",
+    "spot": "Genocide Rock",
+    "location": {
+        "latitude": 37.833698,
+        "longitude": -122.49404
+    },
+    "difficulty": "v0 - v4, 5.8 - 5.10a",
+    "climbType": "Bouldering, Rope",
+    "cover": "genociderockcover.jpg",
+    "rockInfo": {
+        "Description": "Located on the Marin Headlands, Genocide Rock provides a few highballs, a couple of traverses and steep sit starts. A cool standalone chert boulder with faces up to about 20 feet high, Genocide Rock has some possible bouldering problems. The top of this standalone chert boulder provides spectacular views of the Bay (and Golden Gate bridge). There is some poison oak around this area that can be avoided.",
+        "When To Go": "Weather is usually not a problem for climbing. It can get cold because of the winds from Rodeo Beach so be prepared and bring a jacket.",
+        "Gear": "There is only one sub-par hanger less bolt at the top. Long slings and possibly a second rope to sling a block way back from the edge. There's also a 1\" - 2\" cam flake immediately behind the bolt, but it's loose - don't trust it!"
+    },
+    "logistics": {
+        "Parking": {
+          "main": "<ul>
+                   <li>Take US-101 N from San Francisco to Marin.</li>
+                   <li>Take the Alexander Ave exit from US-101 N.</li>
+                   <li>Keep left at the fork, follow signs for US-101 S/San Francisco. Turn left onto Alexander Avenue.</li>
+                   <li>Take 1st right to Conzelman Rd.</li>
+                   <li>After 1.1 miles, you will reach a traffic circle with an intersection to McCullough Rd. Park next to the traffic circle in the parking lot.</li>
+                   </ul>",
+          "gps": {
+            "latitude": 37.833698,
+            "longitude": -122.49404,
+            "title": "Parking"
+          }
+        },
+        "Approach": {
+          "main": "Park and hike up the steep grassy hill to the obvious big chirt boulder. Do not climb the obvious trail (Coastal trail) on McCullough Rd. Even though this seems right next to the rock, it diverges away from the rock. You will need to hike up the steep hill from somewhere near the the traffic circle. There may be some poison oak.",
+          "gps": {
+            "latitude": 37.834763,
+            "longitude": -122.493307,
+            "title": "Genocide Rock Approach"
+          }
+        }
+      },
+     "routes": {
+       "01. South-West Face":
+         [
+           {
+             "name": "Arete",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/0RWPyE8.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Gruel",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/HOF9bcb.jpg",
+             "isLandscapeOrientation": true
+           }
+         ],
+       "02. South-East Face":
+         [
+           {
+             "name": "Traverse (Pt 1)",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/Icz1ULr.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "V Basic",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/u3LiDKq.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "The Basic Top-out",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/3kFcBQn.jpg",
+             "isLandscapeOrientation": true
+           }
+         ],
+       "02. North-East Face":
+         [
+           {
+             "name": "Traverse (Pt 2)",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/Uspy23h.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Arete",
+             "difficulty": "5.8",
+             "image": "http://i.imgur.com/7snk58w.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Face (Left) ",
+             "difficulty": "5.10a",
+             "image": "http://i.imgur.com/OwPahUy.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Face (Right)",
+             "difficulty": "5.10a",
+             "image": "http://i.imgur.com/XnNvG8R.jpg",
+             "isLandscapeOrientation": true
+           }
+       ]
+     }
+}

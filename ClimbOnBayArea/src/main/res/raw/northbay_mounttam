@@ -1,0 +1,438 @@
+{
+    "area": "North Bay",
+    "spot": "Mt. Tam",
+    "location": {
+        "latitude": 37.910567,
+        "longitude": -122.612628
+    },
+    "difficulty": "v8 - v8",
+    "climbType": "Bouldering, Rope",
+    "cover": "mttamcover.jpg",
+    "rockInfo": {
+        "Description": "Mount Tamalpais is the most popular outdoors playground in San Francisco Bay Area. It is also the high point of Marin County, California. The mountain is a east-west trending ridge rising dramatically over the surrounding cities and hills, about 10 miles as crow flies north of San Francisco. It has steep slopes on all sides, bounded on the west and south by sea cliffs. From most parts of the mountain there are simply stunning views of the ocean, bay, cities, bridges, rocky outcrops, dense forests, wild flowers, water falls, dramatic ocean cliffs, beaches, pounding surf, fog clouds and sunsets.<br><br>Most of the climbs at \"Mount Tam\" range from 5.3 - 5.11b and are top-roped. It is also a great place to learn trad climbing.  There are many great bouldering areas all over Mt Tam since a recent surge in development starting about 2005. The mountain now hosts about 125 boulder problems from VB-V9 and counting! The highest concentration of problems are at The Lakeview Boulders off Lakeview Trail on the north side of the mountain. The rest of the problems are all spread out at smaller roadside areas on the way up to the East Peak.",
+        "Climbing Season": "Mt Tam escapes most of the fog and mist that covers the other spots in the North Bay. The park is open from 7:00 AM to sunset. Some rocks can get hot during the day. Southern Formation and Oberman Rock are shady throughout the day. Northern Formation is sunny during the morning. Some of the bouldering problems lie in the shade. Autumn is the best season to go.",
+        "Parking Fees": "There is an $8 parking fee if you plan to park at the summit (where all the top-rope rocks reside).",
+        "Dogs": "Mostly on leash. Check trailhead for rules.",
+        "The Rock":  "The rock at Mount Tamalpais is mineral serpentine, resulting in very featured rock and cracks perfect for learning and practicing many climbing techniques. Rock height ranges from 40-60 feet, ranging from fun slabs to exciting roofs!<br><br>The mountain marks the site of a former subduction zone, due to the fact that it was ocean crust, which has been hydrothermally altered. Serpentinization is the process of removing calcium from rocks, replacing it with magnesium. The serpentinization occurred when the rock was ocean crust. Hot water percolated through the crust altering it into the formation, which now stands. Very few plants can live in soil without calcium, besides chaparral (pines and manzanita) which cover a good portion of the mountain. Serpentine is the state rock of California."
+    },
+    "logistics": {
+        "Getting to Mt Tam": {
+          "main": "<ul>
+                   <li> From San Francisco, take US 101-N across the Golden Gate Bridge.</li>
+                   <li> Exit onto CA-1 N/Shoreline Hwy toward Mill Valley/Stinson Beach.</li>
+                   <li> After 1 mile, turn left to stay on CA-1 N/Shoreline Hwy.</li>
+                   <li> After 2.6 miles, take a slight right to Panoramic Hwy (there should be a board for Mt Tam).</li>
+                   <li> After 5.3 miles, take a right onto Pan Toll Rd.</li>
+                   <li> Rock Springs Parking lot will be 1.4 miles ahead. Park here for the Rock Springs Boulder. Take a right and follow E Ridgecrest Blvd for 2.9 miles to reach the Summit for top-roping. All other boulders are along the way (except Bootjack boulders). Follow individual instructions to reach them.</li>
+                   </ul>",
+          "gps": {
+            "latitude": 37.910567,
+            "longitude": -122.612628,
+            "title": "Rock Springs Parking Lot"
+          }
+        },
+        "Northern, Southern Formation, Oberman Rock (Rope Climbing)": {
+          "main": "Rope climbing rocks are at the summit of Mt Tam. From the Rock Springs parking lot, take a right to E Ridgecrest Blvd and drive for 3 miles. Parking is $8. Follow the Overview map in the Routes section for directions to Northern, Southern Formation and Oberman Rock.",
+          "gps": {
+            "latitude": 37.927193,
+            "longitude": -122.580224,
+            "title": "Mt. Tam Summit Parking Lot"
+          }
+        },
+        "Rock Springs Boulder": {
+          "main": "Across the road from Rock Springs parking lot, take the Mountain Theatre Fire Trail up 0.1 mile. There will be multiple trails. Take the Old Mine Trail (one of the middle ones) for a few yards to reach the boulder on the left.",
+          "gps": {
+            "latitude": 37.910567,
+            "longitude": -122.612628,
+            "title": "Rock Springs Parking Lot"
+          }
+        },
+        "Camel Pie Rock": {
+          "main": "From the Rock Springs parking lot, take a right to E Ridgecrest Blvd and drive for 0.4 miles. You will see a big parking lot on the right. Park here and the rock should be near the parking lot.",
+          "gps": {
+            "latitude": 37.914676,
+            "longitude": -122.609412,
+            "title": "Camel Pie Parking Lot"
+          }
+        },
+        "Bayview Wall": {
+          "main": "From the Rock Springs parking lot, take a right to E Ridgecrest Blvd and drive for 0.8 miles. You will see a parking for a single car. If you a see a bigger dirt parking lot on the left, you have overshot just a bit. Follow the GPS coordinates. Bayview Wall is on the right (beneath the pullout).",
+          "gps": {
+            "latitude": 37.919502,
+            "longitude": -122.605653,
+            "title": "Bayview Wall"
+          }
+        },
+        "ATF Boulder/East Bloc": {
+          "main": "This is on the other side of the road from the Bayview Wall.",
+          "gps": {
+            "latitude": 37.919502,
+            "longitude": -122.605653,
+            "title": "ATF Boulder"
+          }
+        },
+        "Lakeview Boulders": {
+          "main": "The majority of bouldering resides here. From the Rock Springs parking lot, take a right to E Ridgecrest Blvd and drive for 2 miles to reach a pullout for 10 cars on the right. There will be a sign for Lakeview trail on the left side. Check the overview map to get a better idea of the boulders.<br><b>Trailside Boulder</b><br>Take this trail for a few hundred yards to reach the Trailside right next to the trail.<br><b>Procrastination Boulder & Corridor Rock</b><br>Go across the trailside boulder and go downhill. You will cross two group of boulders. The one on the left is Procrastination Boulder and the one on the right is Corridor Rock.<br><b>Big Hunk</b><br>After the procrastination boulder and corridor rock, the trail goes right and more downhill. Big Hunk should be next on the trail. <br><b>Pee Wees Playhouse</b><br>The rock across from the Big Hunk, has a small cave on the side facing away from the Big Hunk. This cave has some v7s.<br><b>Building Block</b><br>The building block lies away from the trail leading to the other boulders. This huge 20+ feet boulder can be found by taking a faint trail going left from Trailside Boulder.",
+          "gps": {
+            "latitude": 37.927243,
+            "longitude": -122.592448,
+            "title": "Lakeview Boulders Parking Lot"
+          }
+        },
+        "Bootjack & Cheech Choss Boulders": {
+          "main": "When heading down back from Rock Springs parking lot, take a left to go on Panaromic Hwy. The Bootjack parking lot will come on your left. After half a mile, a hairpin will come. There is slender parking on the right just before the hairpin. There is more parking after you turn. From the slender parking, go across the roads into the woods. The trail leads to two big boulders. The one on the left is Bootjack Boulder and the one on the right is Cheech Choss Boulder.",
+          "gps": {
+            "latitude": 37.912733,
+            "longitude": -122.597326,
+            "title": "Bootjack & Cheech Choss Boulders"
+          }
+        }
+    },
+     "routes": {
+         "00. Topology Maps":
+         [
+           {
+             "name": "Summit Topology",
+             "difficulty": "n/a",
+             "image": "http://i.imgur.com/8UL11TB.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Lakeview Boulders Topology",
+             "difficulty": "n/a",
+             "image": "http://i.imgur.com/DMAIdwZ.jpg",
+             "isLandscapeOrientation": true
+           }
+         ],
+         "01. Northern Formation":
+         [
+             {
+               "name": "Face",
+               "difficulty": " 5.4",
+               "image": "http://i.imgur.com/VHgWpGq.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Face",
+               "difficulty": " 5.6",
+               "image": "http://i.imgur.com/yNygu7p.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Face",
+               "difficulty": " 5.8",
+               "image": "http://i.imgur.com/W6LuwDQ.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Face",
+               "difficulty": " 5.7",
+               "image": "http://i.imgur.com/qVTHHrf.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Face",
+               "difficulty": "5.7",
+               "image": "http://i.imgur.com/FJn2LGJ.jpg",
+               "isLandscapeOrientation": true
+             }
+         ],
+         "02. Southern Formation":
+         [
+             {
+               "name": "Triumph",
+               "difficulty": "5.7",
+               "image": "http://i.imgur.com/tVHnREW.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "The Jugs",
+               "difficulty": "5.8",
+               "image": "http://i.imgur.com/glIz45g.jpg",
+               "isLandscapeOrientation": true
+             }
+         ],
+         "03. Oberman's Crack":
+         [
+             {
+               "name": "Oberman's Crack",
+               "difficulty": "5.11c",
+               "image": "http://i.imgur.com/jRsLTBu.jpg",
+               "isLandscapeOrientation": true
+             }
+         ],
+         "04. Leaning Tower":
+         [
+             {
+               "name": "Arete",
+               "difficulty": "5.10c",
+               "image": "http://i.imgur.com/17GlRBL.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Face",
+               "difficulty": "5.10c",
+               "image": "http://i.imgur.com/MsSjOP5.jpg",
+               "isLandscapeOrientation": true
+             }
+         ],
+         "05. Rock Springs Boulder":
+         [
+             {
+               "name": "Crisis",
+               "difficulty": "v1",
+               "image": "http://i.imgur.com/YWEYBfB.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Rock Springs Traverse",
+               "difficulty": "v4",
+               "image": "http://i.imgur.com/qbcPTHG.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Chemicals",
+               "difficulty": "v1",
+               "image": "http://i.imgur.com/cyuWWG5.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "The Lip",
+               "difficulty": "v1",
+               "image": "http://i.imgur.com/QgeNrvC.jpg",
+               "isLandscapeOrientation": true
+             }
+         ],
+         "06. Camel Pie Rock":
+         [
+             {
+               "name": "Summer Solstice",
+               "difficulty": "v3",
+               "image": "http://i.imgur.com/k5k5c0E.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Camel Pie Traverse",
+               "difficulty": "v7",
+               "image": "http://i.imgur.com/rQpBy5p.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Winter Solstice",
+               "difficulty": "v4",
+               "image": "http://i.imgur.com/PTFUKyx.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Camel Pie Highball",
+               "difficulty": "v1",
+               "image": "http://i.imgur.com/uurw0of.jpg",
+               "isLandscapeOrientation": true
+             }
+         ],
+         "07. ATF Boulder":
+         [
+             {
+               "name": "ATF Boulder Traverse",
+               "difficulty": "v6",
+               "image": "http://i.imgur.com/DsK43I3.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Centuries to Master",
+               "difficulty": "v4",
+               "image": "http://i.imgur.com/JPcD1Kf.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Playground (Sit Start)",
+               "difficulty": "v4",
+               "image": "http://i.imgur.com/puNizNJ.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "The Crack (Sit Start)",
+               "difficulty": "v1",
+               "image": "http://i.imgur.com/sdfEVMW.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Vegetables",
+               "difficulty": "v5",
+               "image": "http://i.imgur.com/5YpkaE1.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Snake Charmer",
+               "difficulty": "v5",
+               "image": "http://i.imgur.com/DlILHeW.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Target Practice (Sit Start)",
+               "difficulty": "v4",
+               "image": "http://i.imgur.com/52CCGGA.jpg",
+               "isLandscapeOrientation": true
+             }
+         ],
+         "08. Lakeview - Trailside Boulder":
+         [
+             {
+               "name": "Warm-up",
+               "difficulty": "v0",
+               "image": "http://i.imgur.com/WfkZBVs.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Warm-up",
+               "difficulty": "v0",
+               "image": "http://i.imgur.com/tXkctC1.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Trailside Boulder Traverse",
+               "difficulty": "v5",
+               "image": "http://i.imgur.com/0u8R9ts.jpg",
+               "isLandscapeOrientation": true
+             }
+         ],
+         "09. Lakeview - Procrastination Boulder & Corridor Rock":
+         [
+             {
+               "name": "Procrastination",
+               "difficulty": "v8",
+               "image": "http://i.imgur.com/LVJesPZ.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Rhetoric",
+               "difficulty": "v5",
+               "image": "http://i.imgur.com/Umb6EXI.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Intonation",
+               "difficulty": "v5",
+               "image": "http://i.imgur.com/2CyWEUt.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "High Heeled Hookers",
+               "difficulty": "v2",
+               "image": "http://i.imgur.com/s6FLeOw.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Gravity Train",
+               "difficulty": "v6",
+               "image": "http://i.imgur.com/C1kQMX8.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Missionaries",
+               "difficulty": "v3",
+               "image": "http://i.imgur.com/4fR3KqL.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Old Man Card",
+               "difficulty": "v3",
+               "image": "http://i.imgur.com/K9wodyQ.jpg",
+               "isLandscapeOrientation": true
+             }
+         ],
+         "10. Lakeview - Big Hunk":
+         [
+             {
+               "name": "The Overhang",
+               "difficulty": "v7",
+               "image": "http://i.imgur.com/l8h7yEQ.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "EC Does It",
+               "difficulty": "v2",
+               "image": "http://i.imgur.com/42aFdtw.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Scary Arete",
+               "difficulty": "v4",
+               "image": "http://i.imgur.com/52IIcjQ.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Big Hunk (Left)",
+               "difficulty": "v2",
+               "image": "http://i.imgur.com/Exye7eo.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Big Hunk (Right)",
+               "difficulty": "v3",
+               "image": "http://i.imgur.com/xbdbiKk.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Big Hunk (Centre)",
+               "difficulty": "v4",
+               "image": "http://i.imgur.com/OmtJ346.jpg",
+               "isLandscapeOrientation": true
+             }
+         ],
+         "11. Lakeview - Pee Wee's Playhouse":
+         [
+             {
+               "name": "Pee Wee's Playhouse (Left)",
+               "difficulty": "v7",
+               "image": "http://i.imgur.com/9SzTUgc.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Pee Wee's Playhouse (Right)",
+               "difficulty": "v7",
+               "image": "http://i.imgur.com/UYqReIx.jpg",
+               "isLandscapeOrientation": true
+             }
+         ],
+         "12. Bootjack & Cheech Choss Boulder":
+         [
+             {
+               "name": "Arete",
+               "difficulty": "v2",
+               "image": "http://i.imgur.com/RQsla4I.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Intuition",
+               "difficulty": "v4",
+               "image": "http://i.imgur.com/TqkP9DC.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Parity",
+               "difficulty": "v4",
+               "image": "http://i.imgur.com/ewPK7Lz.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Arete",
+               "difficulty": "v2",
+               "image": "http://i.imgur.com/uU3XYRw.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Arete",
+               "difficulty": "v3",
+               "image": "http://i.imgur.com/e9aJ3ot.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Sirens (Sit Start)",
+               "difficulty": "v5",
+               "image": "http://i.imgur.com/b0Niy00.jpg",
+               "isLandscapeOrientation": true
+             }
+         ]
+      }
+}

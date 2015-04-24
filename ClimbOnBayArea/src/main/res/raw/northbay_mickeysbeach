@@ -1,0 +1,337 @@
+{
+    "area": "North Bay",
+    "spot": "Mickeys Beach",
+    "location": {
+        "latitude": 37.8887,
+        "longitude": -122.629
+    },
+    "difficulty": "v0 - v8, 5.9 - 5.13c",
+    "climbType": "Bouldering, Rope",
+    "cover": "mickeysbeachcover.jpg",
+    "rockInfo": {
+        "Description": "Mickey's Beach is home to the highest concentration of difficult, and also possibly the most beautiful and exotic, climbing in the Bay Area. Located off Highway 1 North a mile or two south of Stinson Beach, Mickey's provides climbers challenging sport climbing on Serpentine rock right next to the crashing waves of the Pacific Ocean. Many routes are tide dependent and checking a tide table is recommended before making plans. In addition to the variance of the physical appearance of the rock, the variance of the condition dependent rock is quite drastic, meaning the surfaces can range from tacky and graspable to downright slick. Heavy fog is also a significant factor in daily climbing conditions. Despite these caveats, Mickey's is a Bay Area favorite.<br><br>The rock here has been known to break and in the 1986 a major storm took an entire face and several popular routes into the ocean. The bolts are ring bolts (basically a U-shape of metal with the two prongs hammered into the rock). The setting and the difficulty make Mickey's a magnet for fit sport climbers.<br><br>The Serpentine rock often feels slick even when dry, thus making many climbs here feel more difficult than their guidebook ratings (ie. leaders should not expect to climb at their sport leading limits at this rock until very familiar with the terrain).<br><br>The boulders are right next to a nude beach with lots of people playing naked frisbee.",
+        "Climbing Season": "Some of the climbs at Mickey's Beach are tide-dependant. Ocean sides (the West face) are usually accessible during low tide. Heavy fog, crashing waves and weird costal weather patterns can make or break a good day at Mickey's. The rock generally dries quickly here since it is often windy. The sand height can vary to an astonishing degree throughout the year; it is generally highest during Autumn.<br><br>Weather information - (415) 868-1922. <br>Tide predictions <br>http://www.surfline.com/surf-report/stinson-beach-northern-california_5090<br><br>Tide below 3 ft and swells below 5 ft.",
+        "Dogs": "Not allowed at Stinson Beach Parks.",
+        "Gear": "Crash pad for bouldering. 10+ quick draws for rope climbing."
+    },
+    "logistics": {
+        "parking": {
+          "main": "<ul>
+                   <li>From San Francisco, take US 101N across the Golden Gate Bridge.</li>
+                   <li>Exit onto CA-1 N/Shoreline Hwy toward Mill Valley/Stinson Beach.</li>
+                   <li>After 1 mile, turn left to stay on CA-1 N/Shoreline Hwy.</li>
+                   <li>After 10.7 miles, you will see a big dirt pullout with room for 30 cars.</li>
+                   <li>If you reach Stinson Beach, turn around and the pullout will be a mile away.</li>
+                   </ul>",
+          "gps": {
+            "latitude": 37.8887,
+            "longitude": -122.629,
+            "title": "Parking"
+          }
+        },
+        "approach": {
+          "main": "Hike down the trail to reach the beach. The rope climbing rocks should be at the end of the trail. The bouldering should be right next to the rope climbing rocks (North).",
+          "gps": {
+            "latitude": 37.889002,
+            "longitude": -122.63275,
+            "title": "Approach"
+          }
+        },
+        "Set up top rope": {
+          "main": "There are two U-bolts on the southwest edge of the top of the Main Rock. These can be used to rappel down to various anchor bolts to set up top ropes. Use caution when rappelling from the top due to loose rock that can potentially fall on people below."
+        }
+      },
+     "routes": {
+       "04. Orange Buddha Boulder":
+         [
+           {
+             "name": "Middle Crack",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/FmjydxW.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Straight Up",
+             "difficulty": "v3",
+             "image": "http://i.imgur.com/zcbmfHZ.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Sit Start",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/OBjUiLa.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Sloper",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/5OY4iCa.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Arete",
+             "difficulty": "v8",
+             "image": "http://i.imgur.com/pdmIH1I.jpg",
+             "isLandscapeOrientation": true
+           }
+         ],
+       "05. Nude Beach Boulder A":
+         [
+           {
+             "name": "Crack",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/flMwM7G.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 4
+           },
+           {
+             "name": "Route",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/3BYRVBz.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 5
+           },
+           {
+             "name": "Baseball",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/tqFQHx0.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 3
+           },
+           {
+             "name": "Route",
+             "difficulty": "v5",
+             "image": "http://i.imgur.com/4pGJMIZ.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 1
+           },
+           {
+             "name": "Route",
+             "difficulty": "v6",
+             "image": "http://i.imgur.com/DuJ9j4o.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 2
+           },
+           {
+             "name": "Traverse",
+             "difficulty": "v8",
+             "image": "http://i.imgur.com/nSc6iK2.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 6
+           },
+           {
+             "name": "She Hates Me",
+             "difficulty": "v10",
+             "image": "http://i.imgur.com/QEYFyCm.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 7
+           }
+         ],
+       "06. Nude Beach Boulder B":
+         [
+           {
+             "name": "Jugs",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/kcas4sd.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 14
+           },
+           {
+             "name": "Route",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/7cWIpvn.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 13
+           },
+           {
+             "name": "Arete",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/55wVR10.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 12
+           },
+           {
+             "name": "Route",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/0aNPgZy.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 10
+           },
+           {
+             "name": "Route",
+             "difficulty": "v5",
+             "image": "http://i.imgur.com/1EMQEhE.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 11
+           }
+         ],
+       "07. Nude Beach Boulder C":
+         [
+           {
+             "name": "Highball",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/vOUZWp7.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 8
+           }
+         ],
+       "08. Red Rock":
+         [
+           {
+             "name": "Left Face",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/30ZuPZy.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 27
+           },
+           {
+             "name": "Right Right Right",
+             "difficulty": "v3",
+             "image": "http://i.imgur.com/2cKDfCj.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 28
+           }
+         ],
+        "01. East Face":
+          [
+             {
+               "name": "Torque",
+               "difficulty": "5.12a",
+               "image": "http://i.imgur.com/ZE0t0o0.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Stemmer",
+               "difficulty": "5.10c",
+               "image": "http://i.imgur.com/UDojQNw.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Walkin' a Thin Line",
+               "difficulty": "5.10b",
+               "image": "http://i.imgur.com/1PTykI2.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Pelicans",
+               "difficulty": "5.12b",
+               "image": "http://i.imgur.com/bLTw7Jm.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Holy Mackeral",
+               "difficulty": "5.13a",
+               "image": "http://i.imgur.com/VS1hxfv.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Wet Dreams",
+               "difficulty": "5.12c",
+               "image": "http://i.imgur.com/TzWe2x8.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Dreams of White Porsches",
+               "difficulty": "5.13b",
+               "image": "http://i.imgur.com/O7Vl1Zx.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Dream On",
+               "difficulty": "5.13c",
+               "image": "http://i.imgur.com/gmkO93a.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Insomnia",
+               "difficulty": "5.13b",
+               "image": "http://i.imgur.com/wBHDilv.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Arete",
+               "difficulty": "5.13b",
+               "image": "http://i.imgur.com/JH1flQG.jpg",
+               "isLandscapeOrientation": true
+             }
+          ],
+        "02. Peeping Tom Boulder":
+          [
+             {
+               "name": "Tool User",
+               "difficulty": "v6",
+               "image": "http://i.imgur.com/VL9gzRz.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Peeping Tom",
+               "difficulty": "5.9",
+               "image": "http://i.imgur.com/0OEQ5vu.jpg",
+               "isLandscapeOrientation": true
+             }
+          ],
+        "03. West Face":
+          [
+             {
+               "name": "Naked and Disfigured",
+               "difficulty": "5.13a",
+               "image": "http://i.imgur.com/sTMMuEA.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Mutiny",
+               "difficulty": "5.13b",
+               "image": "http://i.imgur.com/TpSDWq7.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Hot Tuna",
+               "difficulty": "5.12a",
+               "image": "http://i.imgur.com/CphJ1sA.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Moby Dick",
+               "difficulty": "5.12a",
+               "image": "http://i.imgur.com/cQr57X9.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Motion in the Ocean",
+               "difficulty": "5.12c",
+               "image": "http://i.imgur.com/CzklRYm.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Ocean Monster",
+               "difficulty": "5.12b",
+               "image": "http://i.imgur.com/y8zKzxC.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Gidget",
+               "difficulty": "5.12d",
+               "image": "http://i.imgur.com/jcNIVMT.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Sturgeon",
+               "difficulty": "5.13b",
+               "image": "http://i.imgur.com/76MN0P6.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Scurvy",
+               "difficulty": "5.12d",
+               "image": "http://i.imgur.com/SnesnTW.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Courtney",
+               "difficulty": "5.12a",
+               "image": "http://i.imgur.com/8XW7opu.jpg",
+               "isLandscapeOrientation": true
+             }
+          ]
+     }
+}

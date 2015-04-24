@@ -1,0 +1,164 @@
+{
+    "area": "San Francisco",
+    "spot": "Glen Canyon Park",
+    "location": {
+        "latitude": 37.741507,
+        "longitude": -122.440481
+    },
+    "difficulty": "v0 - v4",
+    "climbType": "Bouldering",
+    "cover": "glencanyoncover.jpg",
+    "rockInfo": {
+        "Description": "In the heart of the big city of San Francisco, a relatively quiet, forested canyon with a few chert cliff bands can be found only a mellow ten-minute stroll from the car down a nice, flat, shady trail. It is one of the two (and arguably the best) bouldering spots in the city and even has good parking. Climbers have been scaling rocks in the park since at least the 1930s and probably even longer than that. Rock climbing at Glen Canyon Park was even mentioned in the Sierra Club newsletter, The Yodeler, in 1940. No big V-grades to be bagged here, but a long, pumpy traverse and a lot of fun, moderate highballs should quench your thirst for stone. The unique Radiolarian Chert is neat to look at, let alone grab onto and climb. Perfect cracks and finger slots cover most faces and allow many options for hand and foot holds.<br><br>This area offers a greater array of rocks to play on, with two large cliff bands in this under-appreciated, natural and peaceful canyon park. The climbs here are all boulder problems from 10- to 15-feet tall, with many in the V0 realm. The outstanding routes are the Glen Canyon traverse (V4), starting on the lowest leftmost edge of the lower cliff, and Unnatural Act, the famously intimidating and overhung V3 roof on the upper cliff.<br><br>The former is never high enough to require a crash pad, but the latter will feel safe only with two or three pads and spotters. Glen Canyon is long enough to even go for a lovely hike of sorts which can make the trip an appealing full outdoors experience. If you bring a baby or small domesticated animal watch out for coyotes!",
+        "Climbing Season": "The foggy weather can make the rock get slippery. It dries up within a day or so of rain. San Francisco weather is unpredictable but Fall is the best season top hope for some sun.",
+        "Dogs": "Leashed.",
+        "Gear": "Crash pads. More than one would be ideal for highballs. Long slings and cams if you would top-rope some highballs instead.",
+        "The Rock": "According to \"Rock Climbing the Bay Area\", the wall is radiolarian chert. Similar to Glen Canyon, layers of rock, each close to an inch thick formed from 65 to 140 million years ago. It is estimated that the amount of time needed to \"make\" chert is about 2,500 to 25,000 years per inch of the material. In other words, it takes about 100,000 to 1 million years to accumulate a few feet of the rock we often take for granted.<br><br>Radiolaria are microscopic plankton that have shells made of silica. As plankton red, their shells rained down on the ocean floor. The chert is the accumulation of these sicila shells over lengthy periods of time. Red and green colors in the rock are due to trace amounts of iron that have undergone different degrees of oxidation. The layered beds of radiolarian chert were flat when they were deposited but were later folded into their present wavy state by the forces that pushed them up onto the surface and shaped the San Francisco Peninsula."
+    },
+    "logistics": {
+        "parking": {
+          "main": "<ul>
+                   <li>On the 280, take the Monterey Blvd exit and turn right onto Monterey Blvd and then a left to Diamond Street.</li>
+                   <li>Stay on Diamond Street for around half a mile and turn right onto Diamond Ht Blvd.</li>
+                   <li>Take a left to Berkeley Way and a right to Crags Court.</li>
+                   <li>At the end of Crags Court, park at the cul-de-sac.</li>
+                   <li>There will be a trail at the cul-de-sac leading to the park.</li>
+                   </ul>",
+          "gps": {
+            "latitude": 37.741507,
+            "longitude": -122.440481,
+            "title": "Glen Canyon Parking"
+          }
+        },
+        "approach": {
+          "main": "Getting to the actual boulders is slightly tricky. Once you take the trail, there are many different routes you can take to reach the boulders. The boulders are down on the right. So make your way through one of these trails to the bottom. Then, you should turn right. Based on where you are, you'll first see a wooden walkaway. Keep walking on it till you wooden stairs. Going up these stairs get you right next to the rock. The Unnatural Act boulder is located a little uphill from the main rock.",
+          "gps": {
+            "latitude": 37.742065,
+            "longitude": -122.443654,
+            "title": "Glen Canyon"
+          }
+        }
+      },
+     "routes": {
+       "Glen Canyon Band":
+         [
+           {
+             "name": "Glen Canyon Traverse (Pt 1)",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/tNcP8hl.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Superstitious",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/c8hr9Nw.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Very Superstitious",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/dNTD0w6.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Lulu",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/8HGoPQH.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Locals",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/VHkebdH.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "The Sit-Start Rock",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/2mBSEks.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "The Slab",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/5IzGi4v.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Beginner's Sit Start",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/A2aub6j.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "v0",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/d7TLjWF.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "The Offwidth",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/UxZDVG9.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Beginner's Send A",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/ZAD39M1.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Glen Canyon Traverse (Pt 2)",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/GKobOum.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Beginner's Send B",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/Kqu4M2q.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "v0",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/mC6SNwh.jpg",
+             "isLandscapeOrientation": true
+           }
+         ],
+         "Unnatural Face":
+         [
+           {
+             "name": "The Easier Traverse",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/JAFfX8X.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Left Chimney",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/2ooHZs2.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "The Unnatural Act",
+             "difficulty": "v3",
+             "image": "http://i.imgur.com/L0Ugzko.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Highball Diagonal",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/1yuYjtq.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Highball Crack",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/LBoIc0Q.jpg",
+             "isLandscapeOrientation": true
+           }
+         ]
+     }
+}

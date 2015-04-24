@@ -1,0 +1,167 @@
+{
+    "area": "South Bay",
+    "spot": "Western Addition",
+    "location": {
+            "latitude": 37.23082,
+            "longitude": -122.095332
+    },
+    "difficulty": "5.8 - 5.12a",
+    "climbType": "Rope",
+    "cover": "incomplete.jpg",
+    "rockInfo": {
+      "Description": "Western Addition is a set of rocks inside Castle Rock - Chew Tooth, Shady Rock, Platypus Rock. Chew Tooth, known for it's love for chewing ropes, is a 30 foot high rock with both challenging and warm-up routes. All routes off the Chew Tooth can be lowered off.",
+      "Climbing Season": "Compared to other spots inside Castle Rock, these rocks are relatively empty. They are hidden from the sun and good to climb if it is not raining.",
+      "Dogs": "Not allowed at Castle Rock State Park. They are allowed on leash at Indian Rock (across the street).",
+      "Fees": "There is an $8 day use fee. If you want to avoid this parking fees, you can always park outside the main parking lot (there is almost always room).",
+      "The Rock": "The uniquely shaped sandstone, with its caves, pockets, and bulbous features, is probably the main attraction for tourists, hikers, and of course, climbers at Castle Rock State Park. The sandstone, known as Vaqueros sandstone, has pockets and caves called tafoni carved out of it. In addition to the tafoni, the sandstone has honeycombed features, or fretwork, as well as large round spheres sticking out from the rock, what geologists refer to as cannonballs. <br><br>Over time, erosion has exposed the outer surface of the rock, which changes slowly due to weather factors such as rain and wind. The area is in an active fault zone. The epicenter of the 1989 Loma Prieta Earthquake, a 7.2 on the richter scale, was not far from here, and the San Andreas Fault divides the Los Trancos Open Space Preserve, only 9 miles to the north."
+    },
+    "logistics": {
+        "parking": {
+          "main": "<ul>
+                   <li>Take US-101 S to San Jose.</li>
+                   <li>Take the exit onto CA-85 S toward Santa Cruz/Cupertino.</li>
+                   <li>Ater 8.1 miles, take the De Anza Blvd exit.</li>
+                   <li>Turn right onto S De Anza Blvd and continue on S Saratoga Sunnyvale Rd.</li>
+                   <li>After 2.3 miles, turn right onto CA 9-S/Big Basin Way.</li>
+                   <li>After 7.3 miles, take a left onto CA-35/Skyline Blvd.</li>
+                   <li>Go another 2.5 miles to reach Castle Rock State Park. Western Addition is located inside Castle Rock State Park. Park outside to avoid parking fee.</li>
+                   </ul>",
+          "gps": {
+            "latitude": 37.23082,
+            "longitude": -122.095332,
+            "title": "Castle Rock State Park Parking"
+          }
+        },
+        "approach": {
+          "main": "Refer to topology map.<br><br>From Saratoga Gap Trail: Follow Saratoga Gap trail for 0.15 miles to a junction (a trail going left to Castle Rock trail). Follow it for 0.3 miles to reach another junction (Junction 1 from routes). Take the right and you will reach Junction 2 (from routes) in 100 yards. There are two trails. The one on the right goes to Platypus Rock. Shady Rock is a stones throw away from Platypus Rock. After a very short while, you will see the top of the Chew Tooth on your left 10 feet left of the trail. <br><br>From Castle Rock Trail: Follow Castle Rock trail from Parking Lot beyond Pyramid Rock. You will eventually reach Junction 1 (from Routes). Take the left trail and reach Junction 2 in 100 yards.There are two trails. The one on the right goes to Platypus Rock. Shady Rock is a stones throw away from Platypus Rock. After a very short while, you will see the top of the Chew Tooth on your left 10 feet left of the trail."
+        }
+    },
+     "routes": {
+        "00. Directions":
+          [
+             {
+               "name": "First Junction",
+               "difficulty": "n/a",
+               "image": "http://i.imgur.com/A4hcKyM.jpg",
+               "isLandscapeOrientation": false
+             },
+             {
+               "name": "Second Junction",
+               "difficulty": "n/a",
+               "image": "http://i.imgur.com/6RVgDOF.jpg",
+               "isLandscapeOrientation": false
+             }
+          ],
+        "01. Chew Tooth":
+          [
+             {
+               "name": "Chew Tooth - Left",
+               "difficulty": "5.11b",
+               "image": "http://i.imgur.com/n7bVSrC.jpg",
+               "isLandscapeOrientation": false
+             },
+             {
+               "name": "Chew Tooth - Center",
+               "difficulty": "5.12a",
+               "image": "http://i.imgur.com/eyeOVZL.jpg",
+               "isLandscapeOrientation": false
+             },
+             {
+               "name": "Chew Tooth - Crack",
+               "difficulty": "5.9",
+               "image": "http://i.imgur.com/xVEFhVS.jpg",
+               "isLandscapeOrientation": false
+             }
+          ],
+        "02. Platypus":
+          [
+             {
+               "name": "Howling Iguana",
+               "difficulty": "5.10a",
+               "image": "http://i.imgur.com/v9HnuMG.jpg",
+               "isLandscapeOrientation": false
+             },
+             {
+               "name": "Moss Man",
+               "difficulty": "5.10a",
+               "image": "http://i.imgur.com/GiBubR2.jpg",
+               "isLandscapeOrientation": false
+             },
+             {
+               "name": "Plat-a-pussy",
+               "difficulty": "5.10b",
+               "image": "http://i.imgur.com/z18od5q.jpg",
+               "isLandscapeOrientation": false
+             },
+             {
+               "name": "Embryo",
+               "difficulty": "5.11c",
+               "image": "http://i.imgur.com/rxqcPHz.jpg",
+               "isLandscapeOrientation": false
+             },
+             {
+               "name": "Jelly Fish",
+               "difficulty": "5.11d",
+               "image": "http://i.imgur.com/pA5Fzfb.jpg",
+               "isLandscapeOrientation": false
+             },
+             {
+               "name": "Al Hussein",
+               "difficulty": "5.10d",
+               "image": "http://i.imgur.com/VeZf2QT.jpg",
+               "isLandscapeOrientation": false
+             }
+          ],
+        "03. Shady Rock":
+          [
+             {
+               "name": "Cotton Mouth",
+               "difficulty": "5.10a",
+               "image": "http://i.imgur.com/esSA7V9.jpg",
+               "isLandscapeOrientation": false
+             },
+             {
+               "name": "Tall Man Simplex",
+               "difficulty": "5.10c",
+               "image": "http://i.imgur.com/umIcIAt.jpg",
+               "isLandscapeOrientation": false
+             },
+             {
+               "name": "Herpes Simplex",
+               "difficulty": "5.11c",
+               "image": "http://i.imgur.com/IgGJXWB.jpg",
+               "isLandscapeOrientation": false
+             },
+             {
+               "name": "Bad Influence",
+               "difficulty": "5.11b",
+               "image": "http://i.imgur.com/BUw6pts.jpg",
+               "isLandscapeOrientation": false
+             },
+             {
+               "name": "Small Man Complex",
+               "difficulty": "5.10d",
+               "image": "http://i.imgur.com/JkWX7qp.jpg",
+               "isLandscapeOrientation": false
+             },
+             {
+               "name": "Dogs Breath",
+               "difficulty": "5.10a",
+               "image": "http://i.imgur.com/9abI3s9.jpg",
+               "isLandscapeOrientation": false
+             },
+             {
+               "name": "Special Effects",
+               "difficulty": "5.10b",
+               "image": "http://i.imgur.com/z74yhbk.jpg",
+               "isLandscapeOrientation": false
+             },
+             {
+               "name": "Slot Nose",
+               "difficulty": "5.8",
+               "image": "http://i.imgur.com/PKQ82YY.jpg",
+               "isLandscapeOrientation": false
+             }
+          ]
+      }
+}

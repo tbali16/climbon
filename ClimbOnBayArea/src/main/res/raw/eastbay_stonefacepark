@@ -1,0 +1,105 @@
+{
+    "area": "East Bay",
+    "spot": "Stoneface Park",
+    "location": {
+        "latitude": 37.8922000,
+        "longitude": -122.2728000
+    },
+    "difficulty": "v0 - v11",
+    "climbType": "Bouldering",
+    "cover": "stonefacecover.jpg",
+    "rockInfo": {
+        "Description": "The Great Stoneface Park consists of a couple of boulders in the middle of a quiet residential area in Berkeley. A handful of climbs, along with a BBQ pit and 4-5 benches, make this spot a relaxing alternative to Indian Rock. On the edge of a gentle slope of grass, the rock is about 15 feet high with just enough crevices and indentations to make it perfect for climbing.<br><br>This park is a hidden gem in North Berkeley. Unlike Indian Rock, there is no spectacular view of the Bay.  That's alright, though, because the fun is in the climb!",
+        "When To Go": "Good conditions throughout the year. ",
+        "Gear": "Crash Pad."
+    },
+    "logistics": {
+        "parking": {
+          "main": "<ul>
+                   <li>Take the Buchanan St. exit from I-80.</li>
+                   <li>Turn right onto Buchanan St. and it will become Marin Ave.</li>
+                   <li>Follow Marin Ave. till you reach Marin Circle.</li>
+                   <li>Take the Arlington Avenue exit and immediately choose to go right to continue onto Indian Rock Avenue.</li>
+                   </ul>",
+          "gps": {
+            "latitude": 37.8922000,
+            "longitude": -122.2728000,
+            "title": "Stoneface Park Parking"
+          }
+        },
+        "approach": {
+          "main": "Boulders are next to the parking."
+        }
+    },
+     "routes": {
+       "Stoneface Rock":
+          [
+             {
+               "name": "The Great Stone Face",
+               "difficulty": "v7",
+               "image": "http://i.imgur.com/fxgX1bt.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Hoop Dreams",
+               "difficulty": "v6",
+               "image": "http://i.imgur.com/RJ87t0y.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Top It Out",
+               "difficulty": "v5",
+               "image": "http://i.imgur.com/0ZoXmm4.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Flyin\'",
+               "difficulty": "v0",
+               "image": "http://i.imgur.com/wXDMByn.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "The Regular",
+               "difficulty": "v2",
+               "image": "http://i.imgur.com/KUXAd2D.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Picnic",
+               "difficulty": "v2",
+               "image": "http://i.imgur.com/oha3s5w.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Maggie Mae",
+               "difficulty": "v3",
+               "image": "http://i.imgur.com/sCbcQL8.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "T is for Tall",
+               "difficulty": "v11",
+               "image": "http://i.imgur.com/0Slhg6P.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Slab",
+               "difficulty": "v1",
+               "image": "http://i.imgur.com/kigtPwG.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Sloper (Sit-Start)",
+               "difficulty": "v4",
+               "image": "http://i.imgur.com/LHhaNIS.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Up",
+               "difficulty": "v3",
+               "image": "http://i.imgur.com/0E2D5Bk.jpg",
+               "isLandscapeOrientation": true
+             }
+           ]
+      }
+}

@@ -1,0 +1,90 @@
+{
+    "area": "South Bay",
+    "spot": "Lyme Disease Rock",
+    "location": {
+        "latitude": 37.2301,
+        "longitude": -122.094165
+    },
+    "difficulty": "5.8 - 5.12a",
+    "climbType": "Rope",
+    "cover": "incomplete.jpg",
+    "rockInfo": {
+        "Description": "Lyme Disease Rock is a gem of the area. It is a 50 foot tall sandstone formation located mere yards off Skyline Blvd, yet it is not as crowded as nearby Indian or Castle Rocks. A handful of sport routes exist here including two fun 5.10b's and some .11's. Easy access to the top of the rock makes setting up TR a pinch.",
+        "Gear": "8-10 quick draws (plus ropes) for sport climbing. ",
+        "Dogs": "Allowed on leash.",
+        "Climbing Season": "Avoid climbing for several days (minimum should be two) after it has rained. Otherwise, this rock is good to climb any time of the year."
+    },
+    "logistics": {
+        "parking": {
+          "main": "<ul>
+                   <li>Take US-101 S to San Jose.</li>
+                   <li>Take the exit onto CA-85 S toward Santa Cruz/Cupertino.</li>
+                   <li>Ater 8.1 miles, take the De Anza Blvd exit.</li>
+                   <li>Turn right onto S De Anza Blvd and continue on S Saratoga Sunnyvale Rd.</li>
+                   <li>After 2.3 miles, turn right onto CA 9-S/Big Basin Way.</li>
+                   <li>After 7.3 miles, take a left onto CA-35/Skyline Blvd. After 2.5 miles, you will see Castle Rock state park on the left. Indian Rock is right next to Castle Rock on the opposite side (about 50 yards away).
+                   </ul>",
+          "gps": {
+            "latitude": 37.2301,
+            "longitude": -122.094165,
+            "title": "Indian Rock Entrance Parking"
+          }
+        },
+        "approach": {
+          "main": "Lyme Disease Rock is inside Indian Rock. As soon as you enter Indian Rock, follow the Skyline Trail (the right most trail) for 0.35 miles (depending on your speed, this can take 10 - 15 minutes). It is the first big rock on the left. Go around the rock to see the top-ropable portions of the rock. See topology map in Routes."
+        }
+    },
+     "routes": {
+        "01. Main Face":
+          [
+             {
+               "name": "Topology",
+               "difficulty": " ",
+               "image": "http://i.imgur.com/foj9fKU.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Vixen",
+               "difficulty": "5.8",
+               "image": "http://i.imgur.com/W7izsE9.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Cosgrove Face",
+               "difficulty": "5.12a",
+               "image": "http://i.imgur.com/LP0NzfD.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Pigs Feet",
+               "difficulty": "5.10b",
+               "image": "http://i.imgur.com/Qj5XfRe.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Ticks Ripped My Flesh",
+               "difficulty": "5.10b",
+               "image": "http://i.imgur.com/G3VxPSE.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Unlucky in Love",
+               "difficulty": "5.11b",
+               "image": "http://i.imgur.com/ppfAeuw.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Lucky in Love",
+               "difficulty": "5.11a",
+               "image": "http://i.imgur.com/5pxn2d3.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Bitch Goddess (Trad Route)",
+               "difficulty": "5.12a",
+               "image": "http://i.imgur.com/UqjN4HT.jpg",
+               "isLandscapeOrientation": true
+             }
+          ]
+      }
+}

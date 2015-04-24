@@ -1,0 +1,288 @@
+{
+    "area": "East Bay",
+    "spot": "Indian Rock",
+    "location": {
+        "latitude": 37.8922000,
+        "longitude": -122.2728000
+    },
+    "difficulty": "v0 - v6",
+    "climbType": "Bouldering",
+    "cover": "indianrockcover.jpg",
+    "rockInfo": {
+        "Description": "Boasting great views out across the Bay to the SF city skyline and the Golden Gate Bridge, Indian Rock is one of the Bay Area's best places to boulder.<br><br>Climbers have been using Indian Rock and nearby crags, Cragmont and Remillard Park, as training grounds for the greater challenges in Yosemite and beyond for almost 100 years.<br><br>Famed climbers and innovators, Dick Leonard, David Brower, Jules Eichorn, and Bestor Robinson practiced belay and rappelling techniques at Cragmont and Indian Rock before heading to Yosemite to do the first big climb in the Valley, Higher Cathedral Spire. Other locals including Allen Steck, Galen Rowell, and John Sherman (inventor of the V-scale) honed their skills here.<br><br>There are dozens of routes, ranging from easy to very difficult. The area offers shorter problems for beginners along the front of the rock facing the road. In 'The Pit' on the downhill side of the rock, climbers will be presented with high balls that verge on free solos. Extreme caution should be used here. There is no shame in sticking to the shorter climbs or traverses, preferring to rope up for higher climbs elsewhere. While an old belay pole exists at the top of The Pit, it is a very high traffic area and climbers seem to (and perhaps should given the local prevailing etiquette) avoid bogarting the rock by heading to nearby Cragmont or Remillard to rope up. There is an overhang in the Pit that can be roped with two new Metolius bolts and the I-boulder wedged high above the Pit can be roped with a single bolt.<br><br>Across the street from Indian Rock there is a 10-14 foot tall wall that runs about 30 feet horizontally. Often overlooked by visiting climbers, this little outcrop can provide hours of fun given the very small, almost micro holds, the lack of defined routes, and the tenuous nature of the climbing. One way to make great use of this spectacular little crag is to play H-O-R-S-E or similar games with a partner, inventing variatons on the fly and tempting your climbing partner(s) to follow in your footsteps. Another good exercise here is to traverse the rock right and left focusing on footwork and endurance. Lastly, there is a small(ish) overhang at the far end of the rock that allows a boulderer a fun challenge without having to fear a long or painful fall.",
+        "When To Go": "There should be good conditions throughout the year.",
+        "Camping": "Camping can be found in Tilden Park. (510) 562 - PARK is the best way to find information and directions. ",
+        "Dogs": "Must be on leash. Citations can be issued.",
+        "The Rock": "The rocks scattered across the Berkeley hills are rhyolite. Rhyolites are volcanic rocks with a high concentration of silica. The silica content associates them with continental volcanos rather than oceanic volcanos. The rocks are extrusive meaning that the lava cooled quickly due to it's exposure to air. When rhyolite is light gray or whitish in color, such as most of the rock in Berkeley, it is felsic rhyolite, which contains a greater percentage of quartz, micas, and silicate mixtures than darker mafic rocks such as basalt and gabbro. The rock in and around Berkeley is estimated to be about 100 million years old.",
+        "Gear": "Crash pads. Rocks are high and some climbs should be attempted with spotters."
+    },
+    "logistics": {
+        "parking": {
+          "main": "<ul>
+                  <li> Take the Buchanan St. exit from I-80.</li>
+                  <li> Turn right onto Buchanan St. and it will become Marin Ave.</li>
+                  <li> Follow Marin Ave. till you reach Marin Circle. </li>
+                  <li> Take the Arlington Avenue exit and immediately choose to go right to continue onto Indian Rock Avenue.</li>
+                  </ul>",
+          "gps": {
+            "latitude": 37.8922000,
+            "longitude": -122.2728000,
+            "title": "Indian Rock Parking"
+          }
+        },
+        "approach": {
+          "main": "The boulders are next to the parking."
+        }
+    },
+     "routes": {
+        "00. Drinking Fountain Wall":
+          [
+             {
+               "name": "Beginners' Slab",
+               "difficulty": "v0",
+               "image": "http://i.imgur.com/SvbDw36.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Beginners' Slab",
+               "difficulty": "v0",
+               "image": "http://i.imgur.com/Vg82BJz.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Fingercrack",
+               "difficulty": "v2",
+               "image": "http://i.imgur.com/Na33P0H.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Drink til' you sink",
+               "difficulty": "v2",
+               "image": "http://i.imgur.com/zgV4Xi9.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Lip",
+               "difficulty": "v0",
+               "image": "http://i.imgur.com/Rs63h4g.jpg",
+               "isLandscapeOrientation": true
+             }
+           ],
+        "01. The Block Area":
+          [
+             {
+               "name": "Mechanic's Crack",
+               "difficulty": "v3",
+               "image": "http://i.imgur.com/PwZn0Ve.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Worm Drive",
+               "difficulty": "v1",
+               "image": "http://i.imgur.com/4KJiikd.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Worm Drive (Sit Start)",
+               "difficulty": "v6",
+               "image": "http://i.imgur.com/SJRP6fI.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "The Block Traverse",
+               "difficulty": "v4",
+               "image": "http://i.imgur.com/ZH215et.jpg",
+               "isLandscapeOrientation": true
+             }
+          ],
+        "01. Staircase Slab":
+          [
+             {
+               "name": "Beginners' Slab (Left)",
+               "difficulty": "v0",
+               "image": "http://i.imgur.com/SsOXxVR.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Beginners' Slab (Center)",
+               "difficulty": "v1",
+               "image": "http://i.imgur.com/DJWooDT.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Beginners' Slab (Right)",
+               "difficulty": "v0",
+               "image": "http://i.imgur.com/rZ4qcNQ.jpg",
+               "isLandscapeOrientation": true
+             }
+          ],
+        "01. Ape's Traverse Boulder":
+          [
+             {
+               "name": "Ape's Overhang-Mantle",
+               "difficulty": "v4",
+               "image": "http://i.imgur.com/p43j8Dq.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Ape's Traverse",
+               "difficulty": "v6",
+               "image": "http://i.imgur.com/vpYmQAK.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Ape's Slab",
+               "difficulty": "v0",
+               "image": "http://i.imgur.com/NAHxAGy.jpg",
+               "isLandscapeOrientation": true
+             }
+          ],
+        "02. Picnic Table Wall":
+          [
+             {
+               "name": "Picnic Table Traverse",
+               "difficulty": "v4",
+               "image": "http://i.imgur.com/GAd7Bc8.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "White Streak",
+               "difficulty": "v0",
+               "image": "http://i.imgur.com/vFaZHgw.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Picnic Table Overhang",
+               "difficulty": "v1",
+               "image": "http://i.imgur.com/8zdCG0R.jpg",
+               "isLandscapeOrientation": true
+             }
+          ],
+        "03. The Pit":
+          [
+             {
+               "name": "Indian Rock Traverse Pt. 1",
+               "difficulty": "v6",
+               "image": "http://i.imgur.com/S52LtnY.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Indian Rock Traverse Pt. 2",
+               "difficulty": "v6",
+               "image": "http://i.imgur.com/7qv36Vq.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Left Overhang",
+               "difficulty": "v2",
+               "image": "http://i.imgur.com/65zSb3r.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Centre Overhang",
+               "difficulty": "v4",
+               "image": "http://i.imgur.com/Mwg5aDJ.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Right Overhang",
+               "difficulty": "v1",
+               "image": "http://i.imgur.com/Rspdipq.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Jugs",
+               "difficulty": "v0",
+               "image": "http://i.imgur.com/Ovr2Ikl.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "The Top Out",
+               "difficulty": "v4",
+               "image": "http://i.imgur.com/p0YtMQE.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Embryonic Journey (Sit Start)",
+               "difficulty": "v4",
+               "image": "http://i.imgur.com/LWjYReT.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Embryonic Journey",
+               "difficulty": "v3",
+               "image": "http://i.imgur.com/v4UMRoZ.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Left Watercourse",
+               "difficulty": "v3",
+               "image": "http://i.imgur.com/xczSwGI.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Borson's Dyno",
+               "difficulty": "v4",
+               "image": "http://i.imgur.com/xUQinNd.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Beginners' Crack",
+               "difficulty": "v0",
+               "image": "http://i.imgur.com/0KJEmJs.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Right Watercourse",
+               "difficulty": "v1",
+               "image": "http://i.imgur.com/JCRPb6B.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Number 3 of 6",
+               "difficulty": "v0",
+               "image": "http://i.imgur.com/wBnVhTZ.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Regular Corner",
+               "difficulty": "v1",
+               "image": "http://i.imgur.com/isRvcFU.jpg",
+               "isLandscapeOrientation": true
+             }
+          ],
+        "04. Pegboard Wall":
+          [
+             {
+               "name": "Ernie's Arete",
+               "difficulty": "v1",
+               "image": "http://i.imgur.com/T1ID81M.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Jugs",
+               "difficulty": "v2",
+               "image": "http://i.imgur.com/8jiGqLu.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Flake Traverse",
+               "difficulty": "v4",
+               "image": "http://i.imgur.com/mJYyYCO.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "The Bubble",
+               "difficulty": "v5",
+               "image": "http://i.imgur.com/ZgdCVri.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Ellie May",
+               "difficulty": "v1",
+               "image": "http://i.imgur.com/opOeK1X.jpg",
+               "isLandscapeOrientation": true
+             }
+          ]
+      }
+}

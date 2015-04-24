@@ -1,0 +1,95 @@
+{
+    "area": "North Bay",
+    "spot": "The Egg",
+    "location": {
+        "latitude": 37.886608,
+        "longitude": -122.62627
+    },
+    "difficulty": "5.5 - 5.12b",
+    "climbType": "Rope",
+    "cover": "mickeysbeachcover.jpg",
+    "rockInfo": {
+        "Description": "Perched at the far end of the rocky beach adjacent to the Steep Ravine cabins camp site, The Egg offers routes ranging from 5.6 up to 5.12c (Sport routes on two sides, and some easier top ropeable slab climbs on the back side). The climbs are extremely enjoyable and the 5.6 offers views past the arete at the stunning Pacific Ocean. The Egg does look like an egg. It sits right on the beach so when there's sun, you'll be in the sun on one side of the rock.When there's fog, or rain, you're going to be exposed and cold.<br><br>As the belay spot for these climbs is on a small dirt mound connecting the Egg to the hillside, these two climbs can be done regardless of the tide. Please note that while both climbs are fun, the distance from the second bolt to the single anchor bolt on both is perhaps far enough to allow for a ground fall. Another consideration is the fact that while the climbing is not difficult to the first bolt (which the climbs share), the potential to fall and stumble down a rocky gully to the climbers right and cause serious harm to oneself should also be considered before making the long trek down to the rock (although should one arrive unprepared to climb, they will still be treated to fabulous views in a serene and somewhat secluded setting).",
+        "Gear": "10-15 quick draws (plus ropes) for the sport climbing. ",
+        "Climbing Season": "Anytime of the year. Unlike Mickey's Beach, climbing at the Egg is not tide-dependent.",
+        "The Rock": "The variance of rocks and formations at Mickey's and Stinson lead geologist to believe that the beaches lie on a strand of the San Andreas Fault zone that has crumbled and mixed up the myriad of rocks we now see there. Most of the climbing and bouldering rocks are meta-greywacke. A greywacke is a fine-grained sandstone with quartz, feldspar and various dark rock grains that are cemented into a fine-grained matrix."
+    },
+    "logistics": {
+        "parking": {
+          "main": "<ul>
+                   <li> From San Francisco, take US 101N across the Golden Gate Bridge.</li>
+                   <li> Exit onto CA-1 N/Shoreline Hwy toward Mill Valley/Stinson Beach.</li>
+                   <li> After 1 mile, turn left to stay on CA-1 N/Shoreline Hwy.</li>
+                   <li> After 10.2 miles, you will see a closed gate with a road going downhill (Steep Ravine Cabins). This is one of the two main places to park to get to The Egg (check Approach for the alternatives).</li>
+                   <li> If you reach Stinson Beach, turn around and the gate will be 1.5 miles away on your right.</li>
+                   </ul>",
+          "gps": {
+            "latitude": 37.886608,
+            "longitude": -122.62627,
+            "title": "The Egg Parking"
+          }
+        },
+        "approach": {
+          "main": "There are two ways to reach the Egg.<br><br>
+          <ul>
+          <li> Through Paved Road (Approach Time - 15 mins. Difficulty - Easy): The easiest approach is to park next to the gate (see map above) and walk down the paved road. Although the gate is accessible only by cars that belong to employees or people using the cabins, you can still walk down the road to the beach. Follow the paved road till you reach the cabins. Take the stairs going downhill and right if you are facing the beach. Walk south along the beach (100 yds) to reach The Egg.</li>
+          <li> Steep Trail (Approach Time - 5 mins downhill. Difficulty - Hard): You can also park a little further north (see map below) and locate a trail towards the right of the pullout that goes down to the beach. This trail is steep and narrow and probably the fastest way to reach The Egg. Once on the beach, turn left (south) and walk a 100 yards to reach The Egg.</li>
+          </ul>",
+          "gps": {
+            "latitude": 37.886976,
+            "longitude": -122.628115,
+            "title": "Steep Trail Parking"
+          }
+        }
+    },
+     "routes": {
+        "01. East Face":
+          [
+             {
+               "name": "Egg Face",
+               "difficulty": "5.8",
+               "image": "http://i.imgur.com/XFH6xnR.jpg",
+               "isLandscapeOrientation": false
+             },
+             {
+               "name": "Egg Arete",
+               "difficulty": "5.5",
+               "image": "http://i.imgur.com/5Z0cIY4.jpg",
+               "isLandscapeOrientation": false
+             },
+             {
+               "name": "Unknown",
+               "difficulty": "5.5",
+               "image": "http://i.imgur.com/dl6wviX.jpg",
+               "isLandscapeOrientation": false
+             }
+          ],
+        "02. West Face":
+          [
+             {
+               "name": "Egghead",
+               "difficulty": "5.11b",
+               "image": "http://i.imgur.com/VvXPaWh.jpg",
+               "isLandscapeOrientation": false
+             },
+             {
+               "name": "Junglework",
+               "difficulty": "5.12a",
+               "image": "http://i.imgur.com/DNRDiFM.jpg",
+               "isLandscapeOrientation": false
+             },
+             {
+               "name": "This is Your Brain on Drugs",
+               "difficulty": "5.12b",
+               "image": "http://i.imgur.com/ZxI1Els.jpg",
+               "isLandscapeOrientation": false
+             },
+             {
+               "name": "Sign Language",
+               "difficulty": "5.11a",
+               "image": "http://i.imgur.com/mxG8qv5.jpg",
+               "isLandscapeOrientation": false
+             }
+          ]
+      }
+}

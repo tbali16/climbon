@@ -1,0 +1,115 @@
+{
+    "area": "San Francisco",
+    "spot": "Cliff House Boulders",
+    "location": {
+        "latitude": 37.778756,
+        "longitude": -122.513809
+    },
+    "difficulty": "v0 - v6",
+    "climbType": "Bouldering",
+    "cover": "cliffhouseboulderscover.jpg",
+    "rockInfo": {
+        "Description": "The Cliff House at Ocean Beach in San Francisco has some great bouldering along the beach at the base of the actual namesake cliff faces on the north end of Ocean Beach. This spot is a gem, with a fantastic setting next to the crashing waves and jagged rocks at the north end of Ocean Beach.<br><br>The climbs are tall, around 20 feet, which makes them a bit more psychologically challenging.  At least the second half of all the routes get quite easy, so the chances of falling decrease as you go higher. The landings are sandy, which means you don’t need a crash pad unless the sand is wet.<br><br>The sand, in fact, is the big wildcard because it can fluctuate drastically throughout the year, changing in height by as much as six feet! When the sand is low, the climbs are even taller and the landings wetter and harder. When the sand is high, the climbs are less imposing and the landings soft and dry. Going during low tide is also advantageous, but not essential if the sand is in.<br><br>While most of the cliffs in the area are yellow, the one section with good bouldering can be identified by its dull gray hue. Two striking vertical cracks run up the face, both of which are nice V1 routes. The column between them is a dramatic V2, which finishes with a scary but easy mantle over a small roof. Harder problems exist on the right side of the cliff towards the mysterious cave, from the depths of which a tunnel leads back towards the main beach.<br><br>The rock is a common Northern California, Pacific Coast greenstone/sandstone with cracks, edges and a few pockets and slopers. The top outs are often sandy/dirty and may even have some broken glass and bushes to contend with but you're usually over a nice sandy landing albeit a bit highball even when the sand is in. Along with Glen Canyon, it is one of the few places to boulder in San Francisco.",
+        "When To Go": "The sand is at its highest level in the summer/fall season (best time to go). When the sand is low in winter/spring all the problems are R or even can be R/X rated with pools of water, hard packed sand and even debris often filling the landing zones.",
+        "Dogs": "No restrictions on Ocean Beach",
+        "Gear": "Crash pad. The sand provides a soft landing in most cases. Towel for the beach."
+    },
+    "logistics": {
+        "parking": {
+          "main": "<ul>
+                   <li>Head to Ocean Beach and go North from Fulton Street till you arrive at the Cliff House.</li>
+                   <li>Park as close to the Cliff House as possible. There is parking before and after the Cliff House.</li>
+                   </ul>",
+          "gps": {
+            "latitude": 37.778756,
+            "longitude": -122.513809,
+            "title": "Cliff House Parking"
+          }
+        },
+        "approach": {
+          "main": "The boulders are located on the beach. They are just a bit south of the Cliff House. Once parked, you could either walk through the Sutro Baths trail down to the beach and go a little more south than the Cliff House on the beach. Alternatively, you could walk down to the beach from Fulton Street and walk north to find the boulders around a corner.<br><br>Note: GPS position is not perfect.",
+          "gps": {
+            "latitude": 37.777745,
+            "longitude": -122.513593,
+            "title": "Cliff House Boulders"
+          }
+        }
+      },
+     "routes": {
+       "Beaver St":
+         [
+           {
+             "name": "The Warm-up Traverse",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/CjkgpoH.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "One Move Wonder",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/0muxltI.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Three Move Wonder",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/wxNGnQ4.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Archaeology",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/qRQoqRc.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Bellyacher",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/ax9IsLd.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Crack",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/dTPIJsw.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Defrostifarian (Sit Start)",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/QpNqpBX.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Defrostifarian",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/QpNqpBX.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Batman Crack",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/dCgpVjy.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Fingerbanged (The Old Man and the Sea)",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/KLouSc1.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Happy Ending",
+             "difficulty": "v5",
+             "image": "http://i.imgur.com/hKU62l5.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Like A V6 (aka Finger Wound)",
+             "difficulty": "v6",
+             "image": "http://i.imgur.com/obPK7Oy.jpg",
+             "isLandscapeOrientation": true
+           }
+         ]
+     }
+}

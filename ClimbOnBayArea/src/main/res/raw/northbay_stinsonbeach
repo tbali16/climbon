@@ -1,0 +1,139 @@
+{
+    "area": "North Bay",
+    "spot": "Stinson Beach",
+    "location": {
+        "latitude": 37.897251,
+        "longitude": -122.639866
+    },
+    "cover": "stinsonbeach.jpg",
+    "difficulty": "v0 - v10",
+    "climbType": "Bouldering",
+    "rockInfo": {
+        "Description": "Located off Highway 1, Stinson Beach provides relaxed bouldering right next to the sea. Stinson Beach Boulders consists of two main rocks - Old Man Boulder and Are You Experienced Boulder. The Stinson beach market is great for post-climb meal.<br><br>Stinson Beach is a little crowded but should be almost empty near the south end of the beach (where all the bouldering is).<br><br>The difficulty of climbing depends on tide levels and the shifting of sand. It can be a little on the slick side depending on the fog level along the coast. <br><br>The rock quality is superb for the most part.",
+        "When To Go": "Are You Experienced boulder is almost always good to climb. The Old Man Boulder is tide dependent.<br><br>Weather information - (415) 868-1922. <br>Tide predictions <br>http://www.surf-forecast.com/breaks/Stinson-Beach/tides/latest<br><br>",
+        "Dogs": "Not allowed at Stinson Beach Parks.",
+        "Gear": "Crash pad for bouldering. Chalk might be helpful since rock gets wet. Towels if you hate sand and water. ",
+        "The Rock":"The variance of rocks and formations at Mickey's and Stinson lead geologist to believe that the beaches lie on a strand of the San Andreas Fault zone that has crumbled and mixed up the myriad of rocks we now see there. Most of the climbing and bouldering rocks are meta-greywacke. A greywacke is a fine-grained sandstone with quartz, feldspar and various dark rock grains that are cemented into a fine-grained matrix."
+    },
+    "logistics": {
+        "parking": {
+          "main": "<ul>
+                   <li>From San Francisco, take US 101N across the Golden Gate Bridge.</li>
+                   <li>Exit onto CA-1 N/Shoreline Hwy toward Mill Valley/Stinson Beach.</li>
+                   <li>After 1 mile, turn left to stay on CA-1 N/Shoreline Hwy.</li>
+                   <li>After 11.6 miles, you will be at Stinson Beach. Park as far south as possible.</li>
+                   </ul>",
+          "gps": {
+            "latitude": 37.897251,
+            "longitude": -122.639866,
+            "title": "Parking"
+          }
+        },
+        "approach": {
+          "main": "Walk down to Stinson Beach and walk south till you hit the boulders. ",
+          "gps": {
+            "latitude": 37.891735,
+            "longitude": -122.635129,
+            "title": "Approach"
+          }
+        }
+      },
+     "routes": {
+       "01. Are You Experienced?":
+         [
+           {
+             "name": "Flex Luthor",
+             "difficulty": "v10",
+             "image": "http://i.imgur.com/O8UBzui.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Left Arete",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/qhmC3ui.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Secret Breakfast",
+             "difficulty": "v7",
+             "image": "http://i.imgur.com/3N0jSJa.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Flashback",
+             "difficulty": "v5",
+             "image": "http://i.imgur.com/5IXkxE7.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Face",
+             "difficulty": "v3",
+             "image": "http://i.imgur.com/0f5dLRl.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Are You Experienced?",
+             "difficulty": "v10",
+             "image": "http://i.imgur.com/oldjFzn.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Lemonade",
+             "difficulty": "v6",
+             "image": "http://i.imgur.com/K8Ci229.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Eskimo Pie",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/9nAMyWB.jpg",
+             "isLandscapeOrientation": true
+           }
+         ],
+       "02. Old Man Boulder":
+         [
+           {
+             "name": "The Old Man Traverse",
+             "difficulty": "v8",
+             "image": "http://i.imgur.com/4AdWF6S.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Crack",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/OsGcKR5.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Metropolis",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/VbRQz4W.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Barbed Wire",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/hOza3fv.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Arete",
+             "difficulty": "v3",
+             "image": "http://i.imgur.com/s8GPHMS.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Don't Panic",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/dLtUHgY.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Tribal",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/BTHCvMa.jpg",
+             "isLandscapeOrientation": true
+           }
+         ]
+     }
+}

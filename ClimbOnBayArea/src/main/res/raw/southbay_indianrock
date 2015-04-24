@@ -1,0 +1,363 @@
+{
+    "area": "South Bay",
+    "spot": "Indian Rock ",
+    "location": {
+        "latitude": 37.2301,
+        "longitude": -122.094165
+    },
+    "difficulty": "v0 - v9, 5.9 - 5.12b",
+    "climbType": "Bouldering, Rope",
+    "cover": "indianrockbouldering.jpg",
+    "rockInfo": {
+        "Description": "Indian Rock is located right next to historical Castle Rock. With boulders as high as 10 feet and sport lines extending 120 feet, Indian Rock offers an incredible alternative to Castle Rock. The boulders are mostly situated next to the main rock under the cool shade surrounded by trees on all sides. The rock is similar to Castle Rock (Vaqueros Sandstone).",
+        "The Rock": "The uniquely shaped sandstone, with its caves, pockets, and bulbous features, is probably the main attraction for tourists, hikers, and of course, climbers at Castle Rock State Park. The sandstone, known as Vaqueros sandstone, has pockets and caves called tafoni carved out of it. In addition to the tafoni, the sandstone has honeycombed features, or fretwork, as well as large round spheres sticking out from the rock, what geologists refer to as cannonballs.<br><br>Over time, erosion has exposed the outer surface of the rock, which changes slowly due to weather factors such as rain and wind. The area is in an active fault zone. The epicenter of the 1989 Loma Prieta Earthquake, a 7.2 on the richter scale, was not far from here, and the San Andreas Fault divides the Los Trancos Open Space Preserve, only 9 miles to the north.",
+        "When to go": "Avoid climbing for several days (minimum should be two) after it has rained. The sandstone here is very fragile and critical holds on well loved problems have been known to break. If there is no rain, this rock is good to climb any time of the year.",
+        "Dogs": "Allowed on leash.",
+        "Gear": "Crash pad for bouldering. 10 quick draws and long slings for set-back anchors on top. 4\" cam to lead Krokus."
+    },
+    "logistics": {
+        "parking": {
+          "main": "<ul>
+                   <li>Take US-101 S to San Jose.</li>
+                   <li>Take the exit onto CA-85 S toward Santa Cruz/Cupertino.</li>
+                   <li>Ater 8.1 miles, take the De Anza Blvd exit.</li>
+                   <li>Turn right onto S De Anza Blvd and continue on S Saratoga Sunnyvale Rd.</li>
+                   <li>After 2.3 miles, turn right onto CA 9-S/Big Basin Way.</li>
+                   <li>After 7.3 miles, take a left onto CA-35/Skyline Blvd. After 2.5 miles, you will see Castle Rock state park on the left. Indian Rock is right next to Castle Rock on the opposite side (about 50 yards away).</li>
+                   </ul>",
+          "gps": {
+            "latitude": 37.2301,
+            "longitude": -122.094165,
+            "title": "Parking"
+          }
+        },
+        "Rope Climbing": {
+          "main": "There are four obvious trails starting from the parking. The two middle trails merge before Indian Rock (100ft). See topology map in Routes."
+        },
+        "Bouldering": {
+          "main": "There are multiple different boulders you can climb (Trailside Boulder, Clamshell Boulder, Indian Cracks, Hash Rock, Sharma Arete, Down Under, Nature Nazi Boulders). Most of them are near the main Indian Rock. Check the topology map in Routes.<br><br><b>Trailside Boulder</b><br>The trailside boulder is right next to the entrance. It holds a couple of interesting problems.From the entrance, the first rock you see is the trailside boulder. The climbing is on the back of this boulder (away from the road).<br><br><b>Clamshell Boulder</b><br>Clamshell Boulder is located further up the trail from Trailside Boulder (but before Indian Rock). There are four obvious trails starting from the parking. The two middle trails merge before Indian Rock (100ft). Clamshell Boulder and Indian Cracks are between these two trails.<br><br><b>Indian Cracks</b><br>See above.<br><br><b>Hash Rock</b><br>Hash Rock is very close to Indian Rock. When coming from one of the two main trails to Indian Rock, it will be a little left of Indian Rock.<br><br><b>Sharma Arete Rock</b><br>Right next to Indian Rock, Sharma Arete Rock is on the right of (and just before) Indian Rock.<br><br><b>Down Under</b><br>From Indian Rock, the Down Under boulders are downhill and on the right.<br><br><b>Nature Nazi Boulders</b><br>From the parking lot, there are four trails. Take the left most trail (Skyline trail) and you will reach the boulders in 500 ft."
+        }
+      },
+     "routes": {
+
+       "05. Trailside Boulder":
+         [{
+             "name": "Tafony Baloney",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/F0zsE1E.jpg",
+             "isLandscapeOrientation": true
+           }
+         ],
+       "06. Clamshell Boulder":
+         [
+           {
+             "name": "The Clam",
+             "difficulty": "v3",
+             "image": "http://i.imgur.com/cl7zjpu.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Static Reach",
+             "difficulty": "v9",
+             "image": "http://i.imgur.com/zRvyDJE.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "The Clam Traverse",
+             "difficulty": "v9",
+             "image": "http://i.imgur.com/Ei6FPuo.jpg",
+             "isLandscapeOrientation": true
+           }
+         ],
+       "07. Indian Cracks":
+         [
+           {
+             "name": "Indian Crack",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/IHamtO3.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Raw Honey",
+             "difficulty": "v3",
+             "image": "http://i.imgur.com/Pm4QuWm.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Indian Face",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/dFJ14ts.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Honey Dipper",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/u1VL6mN.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Sloper Route",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/1aEobO1.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Inch",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/FEuedyQ.jpg",
+             "isLandscapeOrientation": true
+           }
+         ],
+       "08. Hash Rock":
+         [
+           {
+             "name": "Sloper",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/YwCxxlL.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Revolving Holes",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/DKspSmB.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Undercling",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/aBKx80z.jpg",
+             "isLandscapeOrientation": true
+           }
+         ],
+       "09. Sharma Arete":
+         [
+           {
+             "name": "The Classic",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/inPUF2m.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Sharma Arete",
+             "difficulty": "v9",
+             "image": "http://i.imgur.com/S2AbxRV.jpg",
+             "isLandscapeOrientation": true
+           }
+         ],
+       "10. Down Under":
+         [
+           {
+             "name": "The Shark (Right)",
+             "difficulty": "v3",
+             "image": "http://i.imgur.com/JzSi0FP.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "The Shark (Left)",
+             "difficulty": "v3",
+             "image": "http://i.imgur.com/Xrxzmgi.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Sticky Rice (Right)",
+             "difficulty": "v3",
+             "image": "http://i.imgur.com/JPASr4N.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Sticky Rice (Left)",
+             "difficulty": "v3",
+             "image": "http://i.imgur.com/iOJrKZo.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Right Hand Indian Man",
+             "difficulty": "v6",
+             "image": "http://i.imgur.com/2e50rdl.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Left Hand Indian Man",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/9pqGA5h.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Dark Side of the Moon",
+             "difficulty": "v6",
+             "image": "http://i.imgur.com/NAGBwWJ.jpg",
+             "isLandscapeOrientation": true
+           }
+         ],
+       "11. Nature Nazi Boulders":
+         [
+           {
+             "name": "FF Crack",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/kbPDPe7.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "v0",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/JaK66nZ.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Funky Arete",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/whyOpFJ.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Funky Face",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/I5puEnV.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Slab",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/9n8eRwY.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Slab Off",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/EHC1YIF.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Minimalism",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/L6B9NNM.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Man in the Canoe",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/YkNJ2Gj.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Lieback Flake",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/Iaq0opM.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Sloper Traverse",
+             "difficulty": "v5",
+             "image": "http://i.imgur.com/ZAvPVbg.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Nature Nazi Sit Traverse",
+             "difficulty": "v6",
+             "image": "http://i.imgur.com/9w9euCY.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Nature Nazi Traverse",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/XN3wTes.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "CauntPower Pull",
+             "difficulty": "v5",
+             "image": "http://i.imgur.com/jewxpaS.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Nature Nazi Arete",
+             "difficulty": "v8",
+             "image": "http://i.imgur.com/ylNfLpV.jpg",
+             "isLandscapeOrientation": true
+           }
+         ]
+     },
+
+        "01. Area Info":
+          [
+             {
+               "name": "Topology",
+               "difficulty": " ",
+               "image": "http://i.imgur.com/RiB0pw5.jpg",
+               "isLandscapeOrientation": true
+             }
+           ],
+        "02. South-West Face":
+          [
+             {
+               "name": "Jail Bird",
+               "difficulty": "5.12a",
+               "image": "http://i.imgur.com/YlNiK5p.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "South Face",
+               "difficulty": "5.9",
+               "image": "http://i.imgur.com/hl2kvrK.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Puckered Starfish",
+               "difficulty": "5.10a",
+               "image": "http://i.imgur.com/U73E7Dt.jpg",
+               "isLandscapeOrientation": true
+             },
+             {
+               "name": "Donkey Dong",
+               "difficulty": "5.11d",
+               "image": "http://i.imgur.com/xTjwKyZ.jpg",
+               "isLandscapeOrientation": true
+             }
+           ],
+        "03. North Face":
+          [
+            {
+              "name": "Viscious Circles",
+              "difficulty": "5.10d",
+              "image": "http://i.imgur.com/y75vs8v.jpg",
+              "isLandscapeOrientation": true
+            },
+            {
+              "name": "Blowing Bubbles",
+              "difficulty": "5.10a",
+              "image": "http://i.imgur.com/04eGyRR.jpg",
+              "isLandscapeOrientation": true
+            },
+            {
+              "name": "Dismal Abysmal",
+              "difficulty": "5.11c",
+              "image": "http://i.imgur.com/dKthVpf.jpg",
+              "isLandscapeOrientation": true
+            },
+            {
+              "name": "Krokus",
+              "difficulty": "5.12b",
+              "image": "http://i.imgur.com/d1WH5yd.jpg",
+              "isLandscapeOrientation": true
+            },
+            {
+              "name": "Hocus",
+              "difficulty": "5.11c",
+              "image": "http://i.imgur.com/glRNFxr.jpg",
+              "isLandscapeOrientation": true
+            },
+            {
+              "name": "Strip Poker",
+              "difficulty": "5.12a",
+              "image": "http://i.imgur.com/gxlG6Ua.jpg",
+              "isLandscapeOrientation": true
+            },
+            {
+              "name": "The Globule",
+              "difficulty": "5.11b",
+              "image": "http://i.imgur.com/SYDObI5.jpg",
+              "isLandscapeOrientation": true
+            }
+          ]
+      }
+}

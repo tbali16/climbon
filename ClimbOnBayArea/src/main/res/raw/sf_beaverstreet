@@ -1,0 +1,68 @@
+{
+    "area": "San Francisco",
+    "spot": "Beaver Street Wall",
+    "location": {
+        "latitude": 37.765541,
+        "longitude": -122.436896
+    },
+    "difficulty": "5.9 - 5.11b",
+    "climbType": "Rope",
+    "cover": "beaverstreetcover.jpg",
+    "rockInfo": {
+        "Description": "This old standard is an essential San Francisco climbing experience. The cliff, located in the heart of downtown San Francisco, looms above a pre-school at the end of Beaver St., right above the Castro on the western aspect of Corona Heights.  A top-rope can be anchored to the cement posts of the chain-link fence above.  The diagonal crack on the left is a 5.9 and if you climb the face directly up it is around 5.10. (For roped climbing the difficulty rating system starts at 5.5 and goes to 5.15.)<br><br>The crux of all four climbs is in the first 15 feet or so. Afterwards all climbs converge at the main crack line, which doesn't require jamming as it offers many individual ledges and holds on the edges of the crack.<br><br>The chert here is fantastically smooth and polished; it is sometimes said that climbers can see their reflection in the rock. Although friction for foot-holds is low, having a true full length climbing route in the middle of The City is very special treat.",
+        "Climing Season": "Beaver Street is often warmest during the late summer and into the fall season. The mild climate of the city can mean cool climbing here in the middle of summer. The wall's smooth surface requires dry conditions, so a thick layer of fog may limit the climbing for all but the most ardent diehards who do not want to leave the city. The cliff faces north and is hemmed in by buildings so is perpetually in the shade. The park underneath is also dark and damp, so expect it to be cold, even if it's hot on top of Corona Heights Hill.",
+        "The Rock": "The wall is radiolarian chert of the franscican complex, similar to Glen Canyon. The radiolarian material here was formed by the accumulation of microscopic plankton shells over the course of some 20 million years. BSW was formed during the Cretaceous period, anywhere from 65 to 140 million years ago. The wall is actually an old fault surface; a rare find in a densely populated city. It is slick in most areas because the fault surfaces polished themselves when the two sides ground past each other. The northern side of the fault block was removed to build the park and a home. Oxidized iron in the rock has left red streaks on the wall.",
+        "Dogs": "No restrictions",
+        "Gear": "A single 21 foot length of cordelette works nicely for this anchor, as would tied off slings of similar length. Each climber is responsible for making their own assessment regarding the current condition of the chains and/or concrete block. If either or both look deteriorated or unsafe, DO NOT USE THEM! (As always, climb at your own risk!!!) "
+    },
+    "logistics": {
+        "parking": {
+          "main": "<ul>
+                   <li>Head towards Castro and Beaver St (between 15th and 16th Street).</li>
+                   <li>If coming from Market/16th Street, take a left to go uphill on Beaver St.</li>
+                   <li>Turn slightly right and keep an eye for a narrow opening on the left (before the next intersection). This opening leads to the rock.</li>
+                   </ul>",
+          "gps": {
+            "latitude": 37.765541,
+            "longitude": -122.436896,
+            "title": "Beaver St. Parking"
+          }
+        },
+        "approach": {
+          "main": "Take the narrow path which opens up to a park and the rock."
+        },
+        "Set up top rope": {
+          "main": "To setup a top rope, you will need to scramble up the left side of the rock (next to the narrow opening). This leads to a fence. Follow the fence to chains for anchor. See first route (titled Setting Up Top Rope) to get a better idea of which rock to scramble.\n\nAlternatively, walk back out and turn right on Beaver Street. Head up the street past several houses to the concrete steps on your right. Follow the steps up and then past tennis courts. There will be a trail on your right. Follow this trail up and right until you reach a chainlink fence that guards unwitting pedestrians from falling down the face. VERY CAREFULLY climb over the fence and use either the chains or the concrete fence post to rig a top rope anchor."
+        }
+      },
+     "routes": {
+       "Beaver St":
+         [
+           {
+             "name": "Setting Up Top Rope",
+             "difficulty": "n/a",
+             "image": "http://i.imgur.com/IKGbgUX.jpg?1"
+           },
+           {
+             "name": "The Crack",
+             "difficulty": "5.10a",
+             "image": "http://i.imgur.com/t3M2oDf.jpg?1"
+           },
+           {
+             "name": "The Crack Direct",
+             "difficulty": "5.9",
+             "image": "http://i.imgur.com/UxXWaby.jpg?1"
+           },
+           {
+             "name": "The Crack Right",
+             "difficulty": "5.10d",
+             "image": "http://i.imgur.com/mGJxz1b.jpg?1"
+           },
+           {
+             "name": "Crack to Face",
+             "difficulty": "5.11b",
+             "image": "http://i.imgur.com/ZWviN69.jpg?1"
+           }
+         ]
+     }
+}

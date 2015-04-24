@@ -1,0 +1,303 @@
+{
+    "area": "North Bay",
+    "spot": "Ring Mountain",
+    "location": {
+        "latitude": 37.913198,
+        "longitude": -122.486808
+    },
+    "difficulty": "v0 - v4, 5.2 - 5.10a",
+    "climbType": "Bouldering, Rope",
+    "cover": "ringmountaincover.jpg",
+    "rockInfo": {
+        "Description": "On top of Ring Mountain in Tiburon, Split and Turtle Rock offer a 360&#176; view of the Bay area.<br><br>Split Rock is a 30' rock bisected by a chimney. It mostly consists of 5.3 - 5.8 top rope climbs and some more difficult lines inside the split. The top roping here requires parties build there own anchors and thus can and should only be attempted by those very familiar with trad placements and nut equalization as the best anchors at Split Rock tend to include a combination of one (or more) small cam placement(s) and a series of equalized stoppers in the cracks running along the flat top of the rock. Make sure to bring long webbing to extend your anchor out across the chimney and over the lip.<br><br>Turtle Rock is a short hike away from Split Rock up over the hill and to the right. It offers some of the best bouldering in the Bay. It features really enjoyable and easy to moderate bouldering. There are a few more difficult (and higher) problems, but the bulk of the climbing is V-fun. Many different routes and variations exist, and its generally fun to skip the routine of picking routes based on this guide and to instead create your own lines (in a sense) depending on what variations and/or problems appeal to you. All routes can be walked off.<br><br><b> Beware: </b> At Turtle Rock there is often poison oak at the incut base of the rock. It is hard to see because of the tall grass that covers the top of Ring Mountain. You'll want to make sure you aren't pushing your crash pad into the Poison Oak should any be present at the time of your visit.",
+        "Climbing Season": "Any time of the year. It can get a little sunny so avoid afternoons on hot days if possible.",
+        "Dogs": "Allowed but on leash (you can get a ticket from the Ranger)."
+    },
+    "logistics": {
+        "parking": {
+          "main": "<ul>
+                   <li>Take US-101 N from San Francisco to Marin.</li>
+                   <li>Exit Tamalpais Drive toward Paradise Drive.</li>
+                   <li>Turn right to San Clemente Drive.</li>
+                   <li>After 0.4 miles, take a slight left to Paradise Drive.</li>
+                   <li>After 1.7 miles, take a right to Taylor Rd.</li>
+                   <li>Park at the cul-de-sac at the end of Taylor Rd.</li>
+                   </ul>",
+          "gps": {
+            "latitude": 37.913198,
+            "longitude": -122.486808,
+            "title": "Parking"
+          }
+        },
+        "approach to split rock": {
+          "main": "Split Rock is the big rock right up ahead. There are two gates. Take the left gate (straight up) to reach Split Rock.",
+          "gps": {
+            "latitude": 37.911734,
+            "longitude": -122.485183,
+            "title": "Split Rock"
+          }
+        },
+        "approach to split rock": {
+          "main": "To reach Turtle Rock, take the right gate and follow the road for 100 yds till you see another gate. Cross it and keep going. The rock on the right is Meatball Rock (can be top roped). Continue on the gravel path till you see a large right offshoot. Take it and you will see Turtle Rock 150 yds further on the left.",
+          "gps": {
+            "latitude": 37.91109,
+            "longitude": -122.491588,
+            "title": "Turtle Rock"
+          }
+        }
+      },
+     "routes": {
+       "01. Split Rock: North Face":
+         [
+           {
+             "name": "Split Rock Traverse",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/hvQqUA5.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Easy-Peasy",
+             "difficulty": "5.9",
+             "image": "http://i.imgur.com/WONgx5Z.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Higher",
+             "difficulty": "5.8",
+             "image": "http://i.imgur.com/qvpGbuW.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "The Crack",
+             "difficulty": "5.5",
+             "image": "http://i.imgur.com/BkJ5cjm.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "The Crack (Right)",
+             "difficulty": "5.6",
+             "image": "http://i.imgur.com/l71VWeT.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Face",
+             "difficulty": "5.10a",
+             "image": "http://i.imgur.com/q4RozJ3.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "The Other Crack",
+             "difficulty": "5.8",
+             "image": "http://i.imgur.com/UQ6t2T6.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Far Right",
+             "difficulty": "5.8",
+             "image": "http://i.imgur.com/75o03zS.jpg",
+             "isLandscapeOrientation": true
+           }
+         ],
+       "02. Split Rock: South Face":
+         [
+           {
+             "name": "Traverse Part 2",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/6Hm4joo.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 4
+           },
+           {
+             "name": "Southwest Arete",
+             "difficulty": "5.9",
+             "image": "http://i.imgur.com/0clFkqB.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 4
+           },
+           {
+             "name": "South Crack",
+             "difficulty": "5.8",
+             "image": "http://i.imgur.com/tUfEEf6.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 4
+           },
+           {
+             "name": "Left Arete",
+             "difficulty": "5.8",
+             "image": "http://i.imgur.com/QTMyOze.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 4
+           },
+           {
+             "name": "Chimney",
+             "difficulty": "5.2",
+             "image": "http://i.imgur.com/ysycgy6.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 4
+           },
+           {
+             "name": "Right Arete",
+             "difficulty": "5.10a",
+             "image": "http://i.imgur.com/3VQZb5Y.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 4
+           },
+           {
+             "name": "South Face",
+             "difficulty": "5.6",
+             "image": "http://i.imgur.com/E3obFPi.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 4
+           },
+           {
+             "name": "Black Streak",
+             "difficulty": "5.5",
+             "image": "http://i.imgur.com/pcPLLzp.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 4
+           },
+           {
+             "name": "Bunny Slope",
+             "difficulty": "5.3",
+             "image": "http://i.imgur.com/bHQFgbF.jpg",
+             "isLandscapeOrientation": true,
+             "actualRoute": 4
+           }
+         ],
+       "03. Turtle Rock: South Face":
+         [
+           {
+             "name": "Turtle Rock High Traverse (Pt 1)",
+             "difficulty": "v5",
+             "image": "http://i.imgur.com/7b0fm9M.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Turtle Rock High Traverse (Pt 2)",
+             "difficulty": "v5",
+             "image": "http://i.imgur.com/CjULKUw.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Turtle Rock High Traverse (Pt 3)",
+             "difficulty": "v5",
+             "image": "http://i.imgur.com/R9nNNyJ.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Beginners' Slab",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/ATYK558.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Green Face",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/eB5rNka.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Gold Wall Face",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/816SpZU.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Gold Wall Highball",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/I8DgX90.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Gold Wall Arete",
+             "difficulty": "v4",
+             "image": "http://i.imgur.com/DvRbqAK.jpg",
+             "isLandscapeOrientation": true
+           }
+       ],
+       "04. Turtle Rock: East Face":
+          [
+           {
+             "name": "Geronimo",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/LY8p3w5.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Beginners' Slab",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/aVrhAa8.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Sunny Side",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/4h2Fp7E.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Beginners' Crack",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/nAMAXKZ.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Droid",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/rL7rW55.jpg",
+             "isLandscapeOrientation": true
+           }
+         ],
+       "05. Turtle Rock: North Face":
+         [
+           {
+             "name": "The Void",
+             "difficulty": "v0",
+             "image": "http://i.imgur.com/5bJHw8n.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Sit Start",
+             "difficulty": "v3",
+             "image": "http://i.imgur.com/wTmSmSN.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "The Flake",
+             "difficulty": "v2",
+             "image": "http://i.imgur.com/KWDCuoc.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "The Seam",
+             "difficulty": "v3",
+             "image": "http://i.imgur.com/j67fzwb.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "The Undercling",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/VdkrN4t.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Highball",
+             "difficulty": "v3",
+             "image": "http://i.imgur.com/xd6NhJk.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "Secondary Highball",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/uVZ2Ltc.jpg",
+             "isLandscapeOrientation": true
+           },
+           {
+             "name": "The Sloper",
+             "difficulty": "v1",
+             "image": "http://i.imgur.com/GABoOws.jpg",
+             "isLandscapeOrientation": true
+           }
+         ]
+     }
+}

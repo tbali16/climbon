@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+  <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/spotfragment_routesRockGroupHeaderText"
+            android:background="@color/white"
+            android:textColor="@color/seperatorColor"
+            android:textStyle="bold"
+            android:capitalize="words"
+            android:paddingLeft="4dp"
+            android:paddingBottom="4dp"
+            android:paddingTop="4dp"/>
+  <View
+        android:id="@+id/spot_fragment_seperator"
+        android:layout_width="fill_parent"
+        android:layout_height="1.5dp"
+        android:background="@color/seperatorColor"/>
+</LinearLayout>
+
